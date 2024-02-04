@@ -44,6 +44,9 @@ export default {
         const text = await response.text();
         const lines = text.split("\n").map((line) => line.trim());
         this.fileContent = lines.filter((line) => line.trim() !== ""); // Filter out empty lines
+        for (let line in lines) {
+          console.log(line)
+        }
         return lines;
       } catch (error) {
         console.error("Error reading the file:", error);
