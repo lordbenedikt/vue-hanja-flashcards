@@ -38,7 +38,6 @@ export default {
         this.isFront = true;
     },
     nextWord() {
-        console.log(this.vocabset);
         this.isFront = true;
         const word = this.randomWord();
         this.hanja = word.substring(0, 1);
