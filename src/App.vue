@@ -41,7 +41,6 @@ export default {
   },
   methods: {
     chooseVocabSet(num) {
-      console.log(this.vocab[0])
       this.currentVocabSet = num - 1;
     },
     getVocabulary(vocabListString) {
