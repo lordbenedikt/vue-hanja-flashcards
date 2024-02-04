@@ -27,11 +27,11 @@ export default {
     };
   },
   async created() {
-    this.vocab.push(await this.readFile("/resources/vocab_0.txt"));
-    this.vocab.push(await this.readFile("/resources/vocab_1.txt"));
-    this.vocab.push(await this.readFile("/resources/vocab_2.txt"));
-    this.vocab.push(await this.readFile("/resources/vocab_3.txt"));
-    this.vocab.push(await this.readFile("/resources/vocab_4.txt"));
+    this.vocab.push(await this.readFile("/vocab/vocab_0.txt"));
+    this.vocab.push(await this.readFile("/vocab/vocab_1.txt"));
+    this.vocab.push(await this.readFile("/vocab/vocab_2.txt"));
+    this.vocab.push(await this.readFile("/vocab/vocab_3.txt"));
+    this.vocab.push(await this.readFile("/vocab/vocab_4.txt"));
   },
   methods: {
     chooseVocabSet(num) {

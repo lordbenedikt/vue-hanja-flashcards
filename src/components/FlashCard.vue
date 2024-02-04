@@ -19,10 +19,6 @@ export default {
         this.nextWord()
     },
   },
-  mounted() {
-    console.log("mounted ");
-    console.log(this.vocabset);
-  },
   data() {
     return {
         hanja: "",
