@@ -16,8 +16,11 @@ export default {
   props: ["vocabset"],
   watch: {
     vocabset() {
-        this.nextWord()
+      this.nextWord()
     },
+  },
+  mounted() {
+    this.nextWord()
   },
   data() {
     return {

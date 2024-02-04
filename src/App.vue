@@ -14,6 +14,12 @@
 
 <script>
 import FlashCard from "./components/FlashCard.vue";
+import vocab0 from "./assets/vocab/vocab_0.txt";
+import vocab1 from "./assets/vocab/vocab_1.txt";
+import vocab2 from "./assets/vocab/vocab_2.txt";
+import vocab3 from "./assets/vocab/vocab_3.txt";
+import vocab4 from "./assets/vocab/vocab_4.txt";
+
 
 export default {
   name: "App",
@@ -27,30 +33,21 @@ export default {
     };
   },
   async created() {
-    this.vocab.push(await this.readFile("/vocab/vocab_0.txt"));
-    this.vocab.push(await this.readFile("/vocab/vocab_1.txt"));
-    this.vocab.push(await this.readFile("/vocab/vocab_2.txt"));
-    this.vocab.push(await this.readFile("/vocab/vocab_3.txt"));
-    this.vocab.push(await this.readFile("/vocab/vocab_4.txt"));
+    this.vocab.push(this.getVocabulary(vocab0));
+    this.vocab.push(this.getVocabulary(vocab1));
+    this.vocab.push(this.getVocabulary(vocab2));
+    this.vocab.push(this.getVocabulary(vocab3));
+    this.vocab.push(this.getVocabulary(vocab4));
   },
   methods: {
     chooseVocabSet(num) {
-      console.log("choose " + num)
-      this.currentVocabSet = num-1;
+      console.log(this.vocab[0])
+      this.currentVocabSet = num - 1;
     },
-    async readFile(path) {
-      try {
-        const response = await fetch(path);
-        const text = await response.text();
-        const lines = text.split("\n").map((line) => line.trim());
-        this.fileContent = lines.filter((line) => line.trim() !== ""); // Filter out empty lines
-        for (let line in lines) {
-          console.log(line)
-        }
-        return lines;
-      } catch (error) {
-        console.error("Error reading the file:", error);
-      }
+    getVocabulary(vocabListString) {
+      const lines = vocabListString.split("\n").map((line) => line.trim());
+      this.fileContent = lines.filter((line) => line.trim() !== ""); // Filter out empty lines
+      return lines;
     },
   },
 };
