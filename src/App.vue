@@ -95,10 +95,10 @@ export default {
     // });
     // console.log(seniorHanjas);
 
-    let res = hanja_junior
-      .split("\n")
-      .map((line) => line.split(" : ")[0])
-      .join(" ");
+    // let res = hanja_junior
+    //   .split("\n")
+    //   .map((line) => line.split(" : ")[0])
+    //   .join(" ");
 
     // navigator.clipboard.writeText(res);
 
