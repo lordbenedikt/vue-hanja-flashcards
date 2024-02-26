@@ -2,7 +2,7 @@
   <h2>Study Hanja</h2>
   <div>
     <div 
-      v-for="row in 1" :key="'row_' + row"
+      v-for="row in 2" :key="'row_' + row"
       style="margin-bottom: 4px">
       <base-button
         v-for="i in 5"
