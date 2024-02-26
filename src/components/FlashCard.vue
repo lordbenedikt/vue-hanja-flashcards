@@ -36,10 +36,10 @@
 <script>
 export default {
   emits: ["nextWord", "storeData"],
-  props: ["vocabset", "word"],
+  props: ["vocabset", "word", "reverse"],
   watch: {
     word(word) {
-      this.isFront = true;
+      this.showHanja = true;
       this.hanja = word.substring(0, 1);
       const info = word.substring(3, word.length - 1);
       const infoParts = info.split("-").map((part) => part.trim());
@@ -53,23 +53,28 @@ export default {
       hanja: "",
       pronunciation: "",
       meaningEnglish: "",
-      isFront: true,
+      showHanja: true,
     };
+  },
+  computed: {
+    isFront() {
+      return this.showHanja != this.reverse;
+    }
   },
   methods: {
     showBack() {
       if (!this.isMobile()) {
-        this.isFront = false;
+        this.showHanja = false;
       }
     },
     showFront() {
       if (!this.isMobile()) {
-        this.isFront = true;
+        this.showHanja = true;
       }
     },
     flipMobile() {
       if (this.isMobile()) {
-        this.isFront = !this.isFront;
+        this.showHanja = !this.showHanja;
       }
     },
     isMobile() {

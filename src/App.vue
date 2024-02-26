@@ -13,11 +13,17 @@
       >
     </div>
   </div>
+  <div>
   <flash-card
     :word="vocab[currentVocabSet][currentVocabIndex]"
+    :reverse="reverse"
     @nextWord="nextWord"
     @storeData="storeData"
   ></flash-card>
+  </div>
+  <div style="margin-top: 4px;">
+    <base-button @click="reverse=!reverse">{{ reverse ? "Meaning → Hanja" : "Hanja → Meaning" }}</base-button>
+  </div>
 </template>
 
 <script>
@@ -44,6 +50,7 @@ export default {
       currentSubSetShuffled: arrays.range(0, MIN_SET_SIZE),
       currentVocabIndex: 0,
       currentSubSetIndex: 0,
+      reverse: false,
       madeError: false,
       progress: Array(MAX_SET_SIZE).fill(0),
       depth: 0,
