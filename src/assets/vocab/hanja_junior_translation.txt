@@ -1,0 +1,904 @@
+家 : 집 : 가 : house, home, family
+佳 : 아름다울 : 가 : beautiful, excellent, good
+街 : 거리 : 가 : street, town, district
+可 : 옳을 : 가 : right, acceptable, permissible
+歌 : 노래 : 가 : song, singing, melody
+加 : 더할 : 가 : add, increase, augment
+價 : 값 : 가 : value, price, cost
+假 : 거짓 : 가 : falsehood, fake, deception
+各 : 하나하나 : 각 : each, every, individual
+角 : 뿔 : 각 : horn, antler, corner
+脚 : 다리 : 각 : leg, foot, limb
+干 : 방패 : 간 : shield, buckler, defender
+間 : 사이 : 간 : between, among, space
+看 : 볼 : 간 : see, look at, watch
+渴 : 목마를 : 갈 : thirsty, parched, desiring
+甘 : 달 : 감 : sweet, sugary, pleasant
+減 : 덜 : 감 : reduce, decrease, diminish
+感 : 느낄 : 감 : feel, sense, perceive
+敢 : 감히 : 감 : dare, venture, brave
+甲 : 갑옷 : 갑 : armor, shell, carapace
+江 : 강 : 강 : river, stream, large body of water
+降 : 내릴 : 강 : descend, fall, drop
+講 : 익힐 : 강 : speak, talk, lecture
+强 : 굳셀 : 강 : strong, firm, robust
+改 : 고칠 : 개 : change, alter, amend
+皆 : 다 : 개 : all, everyone, everything
+個 : 낱 : 개 : individual, item, piece
+箇 : 낱 : 개 : individual, particular, single
+開 : 열 : 개 : open, unfold, initiate
+客 : 손님 : 객 : guest, visitor, customer
+更 : 다시 : 갱 : again, once more, further
+去 : 갈 : 거 : go, leave, depart
+巨 : 클 : 거 : huge, large, gigantic
+居 : 있을 : 거 : reside, live, dwell
+車 : 수레 : 거 : car, vehicle, carriage
+擧 : 들 : 거 : lift, raise, elevate
+建 : 세울 : 건 : build, construct, establish
+乾 : 하늘 : 건 : sky, heaven, dry
+犬 : 개 : 견 : dog, hound, canine
+見 : 볼 : 견 : see, look at, observe
+堅 : 굳을 : 견 : firm, solid, steadfast
+決 : 터질 : 결 : decide, determine, resolve
+結 : 맺을 : 결 : tie, knot, bond
+潔 : 깨끗할 : 결 : clean, pure, immaculate
+京 : 서울 : 경 : capital city, Seoul, metropolis
+景 : 볕 : 경 : scenery, view, landscape
+輕 : 가벼울 : 경 : light, not heavy, easy
+經 : 경서 : 경 : classic, scripture, canon
+庚 : 일곱째 천간 : 경 : seventh Heavenly Stem
+耕 : 밭을 갈 : 경 : plow, cultivate, till
+敬 : 공경할 : 경 : respect, honor, venerate
+驚 : 놀랄 : 경 : be surprised, amazed, astonished
+慶 : 경사 : 경 : celebration, congratulation, joy
+競 : 겨룰 : 경 : compete, contend, vie
+癸 : 열째 천간 : 계 : tenth Heavenly Stem
+季 : 끝 : 계 : season, period, quarter
+界 : 지경 : 계 : boundary, border, limit
+計 : 꾀 : 계 : plan, scheme, plot
+溪 : 시내 : 계 : stream, brook, creek
+鷄 : 닭 : 계 : chicken, fowl, hen
+古 : 옛 : 고 : old, ancient, antique
+故 : 옛 : 고 : old, former, past
+固 : 굳을 : 고 : solid, firm, steadfast
+苦 : 쓸 : 고 : bitter, painful, hardship
+考 : 상고할 : 고 : think, ponder, reflect
+攷 : 상고할 : 고 : examine, inquire, investigate
+高 : 높을 : 고 : high, tall, elevated
+告 : 알릴 : 고 : tell, inform, notify
+谷 : 골 : 곡 : valley, ravine, gorge
+曲 : 굽을 : 곡 : curve, bend, crooked
+穀 : 곡식 : 곡 : cereal, grain, corn
+困 : 괴로울 : 곤 : difficult, troubled, distressed
+坤 : 땅 : 곤 : earth, soil, ground
+骨 : 뼈 : 골 : bone, skeleton, framework
+工 : 장인 : 공 : labor, work, craftsmanship
+功 : 공로 : 공 : achievement, merit, accomplishment
+空 : 빌 : 공 : empty, vacant, void
+共 : 함께 : 공 : together, jointly, shared
+公 : 공변될 : 공 : public, official, communal
+果 : 과실 : 과 : fruit, result, outcome
+課 : 매길 : 과 : lesson, class, subject
+科 : 과정 : 과 : science, discipline, course
+過 : 지날 : 과 : pass, exceed, go beyond
+官 : 벼슬 : 관 : government official, bureaucrat, civil servant
+觀 : 볼 : 관 : observe, view, witness
+關 : 빗장 : 관 : gate, barrier, checkpoint
+光 : 빛 : 광 : light, radiance, brightness
+廣 : 넓을 : 광 : wide, broad, extensive
+交 : 사귈 : 교 : associate, interact, engage
+校 : 학교 : 교 : school, institution, academy
+橋 : 다리 : 교 : bridge, span, overpass
+敎 : 가르칠 : 교 : teach, instruct, educate
+九 : 아홉 : 구 : nine
+口 : 입 : 구 : mouth, opening, entrance
+求 : 구할 : 구 : seek, request, ask for
+救 : 건질 : 구 : save, rescue, help
+究 : 궁구할 : 구 : study, investigate, inquire
+久 : 오랠 : 구 : long time, enduring, persistent
+句 : 글귀 : 구 : sentence, phrase, expression
+舊 : 예 : 구 : old, former, past
+國 : 나라 : 국 : country, nation, state
+君 : 임금 : 군 : monarch, king, ruler
+郡 : 고을 : 군 : county, district, region
+軍 : 군사 : 군 : military, army, forces
+弓 : 활 : 궁 : bow, archery
+卷 : 책 : 권 : volume, scroll, book
+權 : 권세 : 권 : authority, power, right
+勸 : 권할 : 권 : advise, recommend, persuade
+貴 : 귀할 : 귀 : precious, noble, honorable
+歸 : 돌아갈 : 귀 : return, go back, revert
+均 : 고를 : 균 : equal, even, uniform
+極 : 다할 : 극 : extreme, utmost, pinnacle
+近 : 가까울 : 근 : near, close, proximity
+勤 : 부지런할 : 근 : diligent, industrious, hardworking
+根 : 뿌리 : 근 : root, origin, source
+金 : 쇠 : 금 : gold, metal
+今 : 이제 : 금 : now, at present, current
+禁 : 금할 : 금 : prohibit, forbid, ban
+及 : 미칠 : 급 : reach, attain, achieve
+給 : 넉넉할 : 급 : give, provide, supply
+急 : 급할 : 급 : urgent, hasty, immediate
+己 : 몸 : 기 : self, oneself
+記 : 기록할 : 기 : record, write down, note
+起 : 일어날 : 기 : rise, get up, stand up
+其 : 그 : 기 : that, those, the
+期 : 기약할 : 기 : period, term, deadline
+基 : 터 : 기 : foundation, base, basis
+氣 : 기운 : 기 : energy, spirit, air
+技 : 재주 : 기 : skill, talent, ability
+幾 : 기미 : 기 : several, some, a few
+旣 : 이미 : 기 : already, previously, formerly
+吉 : 길할 : 길 : good luck, auspicious, propitious
+暖 : 따뜻할 : 난 : warm, cozy, heated
+難 : 어려울 : 난 : difficult, hard, challenging
+南 : 남녘 : 남 : south, southern
+男 : 사내 : 남 : man, male, gentleman
+內 : 안 : 내 : inside, within, inner
+乃 : 이에 : 내 : therefore, hence, thus
+女 : 계집 : 녀 : woman, female, lady
+年 : 해 : 년 : year
+念 : 생각할 : 념 : thought, idea, notion
+怒 : 성낼 : 노 : anger, wrath, rage
+農 : 농사 : 농 : farming, agriculture
+能 : 능할 : 능 : able, capable, competent
+多 : 많을 : 다 : many, much, numerous
+丹 : 붉을 : 단 : red, crimson, vermilion
+但 : 다만 : 단 : but, however, nevertheless
+單 : 홑 : 단 : single, alone, sole
+短 : 짧을 : 단 : short, brief, concise
+端 : 바를 : 단 : end, edge, extremity
+達 : 통달할 : 달 : achieve, reach, attain
+談 : 말씀 : 담 : talk, conversation, discussion
+答 : 대답할 : 답 : answer, reply, respond
+堂 : 집 : 당 : hall, room, chamber
+當 : 당할 : 당 : be, act as, serve as
+大 : 큰 : 대 : big, large, great
+代 : 대신할 : 대 : substitute, replace, represent
+待 : 기다릴 : 대 : wait, await, expect
+對 : 대답할 : 대 : face, confront, oppose
+德 : 덕 : 덕 : virtue, goodness, morality
+刀 : 칼 : 도 : knife, sword, blade
+到 : 이를 : 도 : arrive, reach, attain
+度 : 법도 : 도 : degree, extent, measure
+道 : 길 : 도 : road, path, way
+島 : 섬 : 도 : island, isle
+徒 : 무리 : 도 : follower, disciple, apprentice
+都 : 도읍 : 도 : capital, metropolis, city
+圖 : 그림 : 도 : map, diagram, picture
+讀 : 읽을 : 독 : read, study, peruse
+獨 : 홀로 : 독 : alone, solitary, unique
+同 : 한가지 : 동 : same, identical, equal
+洞 : 골짜기 : 동 : cave, hole, cavity
+童 : 아이 : 동 : child, kid, young one
+冬 : 겨울 : 동 : winter
+東 : 동녘 : 동 : east
+動 : 움직일 : 동 : move, act, stir
+斗 : 말 : 두 : dipper, ladle, measure
+豆 : 콩 : 두 : bean, pea, legume
+頭 : 머리 : 두 : head, top, chief
+得 : 얻을 : 득 : gain, acquire, obtain
+等 : 가지런할 : 등 : equal, level, rank
+登 : 오를 : 등 : climb, ascend, mount
+燈 : 등잔 : 등 : lamp, light, lantern
+落 : 떨어질 : 락 : fall, drop, descend
+樂 : 즐길 : 락 : enjoy, delight, pleasure
+卵 : 알 : 란 : egg, ovum
+浪 : 물결 : 랑 : wave, surf, billow
+郞 : 사내 : 랑 : young man, lad, boy
+來 : 올 : 래 : come, arrive, approach
+冷 : 찰 : 랭 : cold, chilly, frigid
+良 : 어질 : 량 : good, excellent, virtuous
+兩 : 두 : 량 : two, both, pair
+量 : 헤아릴 : 량 : measure, quantity, capacity
+凉 : 서늘할 : 량 : cool, refreshing, brisk
+旅 : 군사 : 려 : travel, journey, trip
+力 : 힘 : 력 : strength, power, force
+歷 : 지낼 : 력 : experience, undergo, go through
+連 : 잇닿을 : 련 : connect, link, join
+練 : 익힐 : 련 : practice, train, drill
+列 : 벌일, 나열할 : 렬 : arrange in order, list
+烈 : 세찰 : 렬 : intense, vehement, ardent
+令 : 명령할 : 령 : order, command
+領 : 옷깃 : 령 : collar, neckband
+例 : 법식 : 례 : example, precedent
+禮 : 예도 : 례 : ceremony, ritual
+路 : 길 : 로 : road, path
+露 : 이슬 : 로 : dew
+老 : 늙은이 : 로 : old, aged
+勞 : 일할 : 로 : labor, work
+綠 : 초록빛 : 록 : green
+論 : 말할 : 론 : discuss, talk
+料 : 헤아릴 : 료 : material, ingredient
+柳 : 버들 : 류 : willow tree
+留 : 머무를 : 류 : stay, remain
+流 : 흐를 : 류 : flow
+六 : 여섯 : 륙 : six
+陸 : 뭍 : 륙 : land
+倫 : 인륜 : 륜 : ethics, morals
+律 : 법 : 률 : law
+陵 : 큰 언덕 : 릉 : hill, mound
+里 : 마을 : 리 : village
+理 : 다스릴 : 리 : reason, logic
+利 : 이로울 : 리 : benefit, advantage
+李 : 오얏 : 리 : plum
+林 : 수풀 : 림 : grove, woods
+立 : 설 : 립 : stand, erect
+馬 : 말 : 마 : horse
+莫 : 없을 : 막 : do not
+萬 : 일만 : 만 : ten thousand
+晩 : 늦을 : 만 : evening, night
+滿 : 찰 : 만 : full, filled
+末 : 끝 : 말 : end, tip
+亡 : 망할 : 망 : die, perish
+忙 : 바쁠 : 망 : busy
+忘 : 잊을 : 망 : forget
+望 : 바랄 : 망 : hope, expect
+每 : 매양 : 매 : each, every
+買 : 살 : 매 : buy
+賣 : 팔 : 매 : sell
+妹 : 누이 : 매 : younger sister
+麥 : 보리 : 맥 : wheat, barley
+免 : 면할 : 면 : exempt
+勉 : 힘쓸 : 면 : effort, endeavor
+面 : 낯 : 면 : face, surface
+眠 : 잠잘 : 면 : sleep
+名 : 이름 : 명 : name
+命 : 목숨 : 명 : life, fate
+明 : 밝을 : 명 : bright, clear
+鳴 : 울 : 명 : sing, cry
+母 : 어미 : 모 : mother
+毛 : 털 : 모 : fur, hair
+暮 : 저물 : 모 : evening, sunset
+木 : 나무 : 목 : tree, wood
+目 : 눈 : 목 : eye
+卯 : 토끼 : 묘 : hare, rabbit
+妙 : 묘할 : 묘 : wonderful, clever
+戊 : 다섯째 천간 : 무 : fifth heavenly stem
+茂 : 우거질 : 무 : luxuriant, thick
+武 : 굳셀 : 무 : military, martial
+務 : 일 : 무 : duty, service
+無 : 없을 : 무 : without, none
+舞 : 춤출 : 무 : dance
+墨 : 먹 : 묵 : ink
+門 : 문 : 문 : gate, door
+問 : 물을 : 문 : ask, question
+聞 : 들을 : 문 : hear, ask
+文 : 글월 : 문 : writing, literature
+勿 : 말 : 물 : do not
+物 : 만물 : 물 : thing, object
+米 : 쌀 : 미 : rice
+未 : 아닐 : 미 : not yet
+味 : 맛 : 미 : taste, flavor
+美 : 아름다울 : 미 : beautiful
+尾 : 꼬리 : 미 : tail
+民 : 백성 : 민 : people, citizens
+密 : 빽빽할 : 밀 : dense, thick
+朴 : 순박할 : 박 : simple, plain
+反 : 되돌릴 : 반 : oppose, reverse
+飯 : 밥 : 반 : meal, rice
+半 : 반 : 반 : half
+發 : 쏠 : 발 : send out, emit
+方 : 모 : 방 : direction, way
+房 : 방 : 방 : room, house
+防 : 막을 : 방 : defend, protect
+放 : 놓을 : 방 : release, set free
+訪 : 찾을 : 방 : visit, call on
+拜 : 절 : 배 : bow, pay respects
+杯 : 잔 : 배 : cup, glass
+盃 : 잔 : 배 : cup, glass
+白 : 흰 : 백 : white
+百 : 일백 : 백 : hundred
+番 : 차례 : 번 : turn, order
+伐 : 칠 : 벌 : attack, fell
+凡 : 무릇 : 범 : all, every
+法 : 법 : 법 : law
+變 : 변할 : 변 : change, transform
+別 : 나눌 : 별 : separate, special
+丙 : 남녘 : 병 : third heavenly stem
+病 : 병 : 병 : illness, disease
+兵 : 군사 : 병 : soldier, army
+保 : 지킬 : 보 : protect, keep
+步 : 걸음 : 보 : step, walk
+報 : 갚을 : 보 : repay, report
+福 : 복 : 복 : fortune, blessing
+伏 : 엎드릴 : 복 : lie down, submit
+服 : 옷 : 복 : clothes, attire
+復 : 돌아올 : 복 : return, restore
+本 : 밑 : 본 : root, basis
+奉 : 받들 : 봉 : offer, present
+逢 : 만날 : 봉 : meet, come across
+夫 : 지아비 : 부 : husband, man
+扶 : 도울 : 부 : support, help
+父 : 아비 : 부 : father
+富 : 넉넉할 : 부 : wealthy, rich
+部 : 거느릴 : 부 : part, section
+婦 : 며느리 : 부 : wife, woman
+否 : 아닐 : 부 : no, not
+浮 : 뜰 : 부 : float, rise
+北 : 북녘 : 북 : north
+分 : 나눌 : 분 : divide, separate
+不 : 아닐 : 불 : not, no
+佛 : 부처 : 불 : Buddha
+朋 : 벗 : 붕 : friend, companion
+比 : 견줄 : 비 : compare, ratio
+非 : 아닐 : 비 : not, non-
+悲 : 슬플 : 비 : sad, mournful
+飛 : 날 : 비 : fly
+鼻 : 코 : 비 : nose
+備 : 갖출 : 비 : prepare, equip
+貧 : 가난할 : 빈 : poor, needy
+氷 : 얼음 : 빙 : ice
+四 : 넉 : 사 : four
+巳 : 뱀 : 사 : snake
+士 : 선비 : 사 : scholar, gentleman
+仕 : 벼슬할 : 사 : serve, official
+寺 : 절 : 사 : temple
+史 : 역사 : 사 : history, record
+使 : 시킬 : 사 : use, send
+舍 : 집 : 사 : house
+射 : 쏠 : 사 : shoot, launch
+謝 : 사례할 : 사 : thank, apologize
+師 : 스승 : 사 : teacher, master
+死 : 죽을 : 사 : die, death
+私 : 사사로울 : 사 : private, personal
+絲 : 실 : 사 : silk, thread
+思 : 생각할 : 사 : think, consider
+事 : 일 : 사 : thing, matter
+山 : 뫼 : 산 : mountain
+産 : 낳을 : 산 : give birth, produce
+散 : 흩어질 : 산 : scatter, disperse
+算 : 셀 : 산 : calculate, count
+殺 : 죽일 : 살 : kill, murder
+三 : 석 : 삼 : three
+上 : 위 : 상 : above, top
+尙 : 오히려 : 상 : furthermore, still
+常 : 항상 : 상 : usual, regular
+賞 : 상줄 : 상 : reward, prize
+商 : 장사 : 상 : trade, commerce
+相 : 서로 : 상 : mutual, each other
+霜 : 서리 : 상 : frost
+想 : 생각할 : 상 : think, imagine
+傷 : 상처 : 상 : injury, wound
+喪 : 죽을 : 상 : mourning, funeral
+色 : 빛 : 색 : color
+生 : 날 : 생 : live, birth
+西 : 서녘 : 서 : west
+序 : 차례 : 서 : order, sequence
+書 : 쓸 : 서 : write, book
+暑 : 더울 : 서 : hot, summer
+石 : 돌 : 석 : stone
+夕 : 저녁 : 석 : evening, night
+昔 : 옛 : 석 : old times, past
+惜 : 아낄 : 석 : cherish, regret
+席 : 자리 : 석 : seat, mat
+先 : 먼저 : 선 : ahead, first
+仙 : 신선 : 선 : immortal, hermit
+線 : 줄 : 선 : line, thread
+鮮 : 고울 : 선 : fresh, vivid
+善 : 착할 : 선 : good, virtuous
+船 : 배 : 선 : boat, ship
+選 : 가릴 : 선 : choose, select
+雪 : 눈 : 설 : snow
+說 : 말씀 : 설 : speak, explain
+設 : 베풀 : 설 : establish, set up
+舌 : 혀 : 설 : tongue
+姓 : 성 : 성 : surname
+性 : 성품 : 성 : nature, character
+成 : 이룰 : 성 : accomplish, become
+城 : 성 : 성 : city, castle
+誠 : 정성 : 성 : sincerity, truth
+盛 : 담을 : 성 : prosper, flourish
+省 : 살필 : 성 : examine, conserve
+星 : 별 : 성 : star
+聖 : 성스러울 : 성 : holy, sacred
+聲 : 소리 : 성 : sound, voice
+世 : 세상 : 세 : world, society
+洗 : 씻을 : 세 : wash, clean
+稅 : 세금 : 세 : tax
+細 : 가늘 : 세 : small, fine
+勢 : 기세 : 세 : power, force
+歲 : 해 : 세 : year, age
+小 : 작을 : 소 : small, little
+少 : 적을 : 소 : few, little
+所 : 바 : 소 : place, location
+消 : 사라질 : 소 : disappear, extinguish
+素 : 흴 : 소 : plain, basic
+笑 : 웃을 : 소 : laugh, smile
+俗 : 풍속 : 속 : custom, manners
+速 : 빠를 : 속 : fast, quick
+續 : 이을 : 속 : continue, extend
+孫 : 손자 : 손 : grandson, descendant
+松 : 소나무 : 송 : pine tree
+送 : 보낼 : 송 : send, escort
+水 : 물 : 수 : water
+手 : 손 : 수 : hand
+受 : 받을 : 수 : receive, accept
+授 : 줄 : 수 : bestow, confer
+首 : 머리 : 수 : head, leader
+守 : 지킬 : 수 : guard, defend
+收 : 거둘 : 수 : gather, collect
+誰 : 누구 : 수 : who
+須 : 모름지기 : 수 : must, need
+雖 : 비록 : 수 : although, even though
+愁 : 시름 : 수 : worry, anxiety
+樹 : 나무 : 수 : tree
+壽 : 목숨 : 수 : long life
+數 : 셀 : 수 : number, count
+修 : 닦을 : 수 : cultivate, repair
+秀 : 빼어날 : 수 : outstanding, excellent
+叔 : 아재비 : 숙 : uncle
+淑 : 맑을 : 숙 : pure, virtuous
+宿 : 묵을 : 숙 : stay, lodge
+順 : 순할 : 순 : obedient, smooth
+純 : 순수할 : 순 : pure, unadulterated
+戌 : 개 : 술 : 11th Earthly Branch, Dog
+崇 : 높을 : 숭 : esteem, respect
+習 : 익힐 : 습 : learn, practice
+拾 : 주울 : 습 : pick up, gather
+乘 : 탈 : 승 : ride, take
+承 : 받들 : 승 : inherit, receive
+勝 : 이길 : 승 : win, excel
+市 : 저자 : 시 : city, market
+示 : 보일 : 시 : show, indicate
+是 : 옳을 : 시 : right, correct
+時 : 때 : 시 : time, hour
+詩 : 시 : 시 : poem, poetry
+視 : 볼 : 시 : look at, see
+施 : 베 풀 : 시 : give, grant
+試 : 시험할 : 시 : try, test
+始 : 처음 : 시 : begin, start
+氏 : 각시 : 씨 : clan, family name
+食 : 먹을 : 식 : eat, food
+式 : 법 : 식 : style, ceremony
+植 : 심을 : 식 : plant, cultivate
+識 : 알 : 식 : know, recognize
+身 : 몸 : 신 : body, oneself
+申 : 원숭이 : 신 : 9th Earthly Branch, Monkey
+神 : 귀신 : 신 : god, deity
+臣 : 신하 : 신 : minister, subject
+信 : 믿을 : 신 : believe, trust
+辛 : 매울 : 신 : bitter, spicy
+新 : 새 : 신 : new
+失 : 잃을 : 실 : lose, miss
+室 : 집 : 실 : room, house
+實 : 열매 : 실 : real, true
+心 : 마음 : 심 : heart, mind
+甚 : 심할 : 심 : very, extremely
+深 : 깊을 : 심 : deep, profound
+十 : 열 : 십 : ten
+兒 : 아이 : 아 : child
+我 : 나 : 아 : I, me
+惡 : 악할 : 악 : evil, bad
+安 : 편안할 : 안 : peaceful, safe
+案 : 책상 : 안 : desk, table
+顔 : 얼굴 : 안 : face
+眼 : 눈 : 안 : eye
+暗 : 어두울 : 암 : dark, gloomy
+巖 : 바위 : 암 : rock
+岩 : 바위 : 암 : rock
+仰 : 우러를 : 앙 : look up, admire
+愛 : 사랑 : 애 : love
+哀 : 슬플 : 애 : sorrow, pity
+也 : 어조사 : 야 : also, too
+夜 : 밤 : 야 : night
+野 : 들 : 야 : field, wilderness
+弱 : 약할 : 약 : weak, feeble
+若 : 같을 : 약 : young, if
+約 : 약속할 : 약 : promise, agreement
+藥 : 약 : 약 : medicine, drug
+羊 : 양 : 양 : sheep
+洋 : 바다 : 양 : ocean
+養 : 기를 : 양 : raise, nurture
+揚 : 오를 : 양 : raise, lift
+陽 : 볕 : 양 : sun, positive
+讓 : 사양할 : 양 : allow, yield
+魚 : 물고기 : 어 : fish
+漁 : 고기 잡을 : 어 : fishing
+於 : 어조사 : 어 : in, at
+語 : 말씀 : 어 : language, speech
+億 : 억 : 억 : hundred million
+憶 : 생각할 : 억 : remember, recall
+言 : 말씀 : 언 : speech, language
+嚴 : 엄할 : 엄 : strict, severe
+業 : 업 : 업 : work, profession
+余 : 나 : 여 : surplus, remaining
+餘 : 남을 : 여 : surplus, excess
+如 : 같을 : 여 : like, similar
+汝 : 너 : 여 : you, thou
+與 : 줄 : 여 : give, and
+亦 : 또 : 역 : also, likewise
+易 : 바꿀 : 역 : easy, change
+逆 : 거스를 : 역 : oppose, rebel
+然 : 그러할 : 연 : so, thus
+煙 : 연기 : 연 : smoke, mist
+硏 : 갈 : 연 : research, study
+熱 : 더울 : 열 : hot, heat
+悅 : 기쁠 : 열 : pleased, delighted
+炎 : 불탈 : 염 : flame, inflammation
+葉 : 잎 : 엽 : leaf
+永 : 길 : 영 : eternal, forever
+英 : 꽃부리 : 영 : excellence, flower
+迎 : 맞이할 : 영 : welcome, receive
+榮 : 영화로울 : 영 : honor, glory
+藝 : 기예 : 예 : art, skill
+五 : 다섯 : 오 : five
+吾 : 나 : 오 : I, my
+悟 : 깨달을 : 오 : understand, realize
+午 : 낮 : 오 : noon, horse
+誤 : 그르칠 : 오 : mistake, error
+烏 : 까마귀 : 오 : crow, black
+玉 : 구슬 : 옥 : jade, gem
+屋 : 집 : 옥 : house, room
+瓦 : 기와 : 와 : tile, roof
+臥 : 누울 : 와 : lie down, sleep
+完 : 완전할 : 완 : complete, perfect
+曰 : 가로 : 왈 : say, speak
+王 : 임금 : 왕 : king, ruler
+往 : 갈 : 왕 : go, travel
+外 : 밖 : 외 : outside, exterior
+要 : 구할 : 요 : essential, key
+欲 : 하고자 할 : 욕 : desire, want
+浴 : 목욕할 : 욕 : bathe, wash
+用 : 쓸 : 용 : use, employ
+容 : 얼굴 : 용 : appearance, capacity
+勇 : 날랠 : 용 : courage, bravery
+于 : 어조사 : 우 : in, at
+宇 : 집 : 우 : house, building
+右 : 오른쪽 : 우 : right
+友 : 벗 : 우 : friend, companion
+牛 : 소 : 우 : cow, ox
+雨 : 비 : 우 : rain
+憂 : 근심할 : 우 : worry, anxiety
+又 : 또 : 우 : again, also
+尤 : 더욱 : 우 : especially, particularly
+遇 : 만날 : 우 : meet, encounter
+云 : 이를 : 운 : say, speak
+雲 : 구름 : 운 : cloud
+運 : 돌 : 운 : luck, fortune
+雄 : 수컷 : 웅 : male, hero
+元 : 으뜸 : 원 : origin, first
+原 : 근원 : 원 : origin, source
+願 : 바랄 : 원 : wish, desire
+遠 : 멀 : 원 : far, distant
+園 : 동산 : 원 : garden, park
+怨 : 원망할 : 원 : resentment, grudge
+圓 : 둥글 : 원 : round, circular
+月 : 달 : 월 : moon
+位 : 자리 : 위 : position, rank
+危 : 위태할 : 위 : danger, peril
+爲 : 할 : 위 : do, make
+偉 : 훌륭할 : 위 : great, admirable
+威 : 위엄 : 위 : power, authority
+由 : 말미암을 : 유 : by means of, reason
+油 : 기름 : 유 : oil, fat
+酉 : 닭 : 유 : 10th Earthly Branch, Rooster
+有 : 있을 : 유 : have, possess
+猶 : 오히려 : 유 : still, yet
+唯 : 오직 : 유 : only, solely
+遊 : 놀 : 유 : play, amuse
+柔 : 부드러울 : 유 : gentle, soft
+遺 : 끼칠 : 유 : leave behind, bequeath
+幼 : 어릴 : 유 : young, immature
+肉 : 고기 : 육 : meat, flesh
+育 : 기를 : 육 : raise, nurture
+恩 : 은혜 : 은 : kindness, grace
+銀 : 은 : 은 : silver
+乙 : 새 : 을 : second, the Heavenly Stem
+音 : 소리 : 음 : sound, noise
+吟 : 읊을 : 음 : chant, recite
+飮 : 마실 : 음 : drink, swallow
+陰 : 그늘 : 음 : shade, yin
+邑 : 고을 : 읍 : city, town
+泣 : 울 : 읍 : weep, cry
+應 : 응할 : 응 : respond, answer
+衣 : 옷 : 의 : clothes, garment
+依 : 의지할 : 의 : rely on, depend
+義 : 옳을 : 의 : righteousness, justice
+議 : 의논할 : 의 : discuss, debate
+矣 : 어조사 : 의 : used at the end of a sentence to indicate certainty
+醫 : 의원 : 의 : doctor, physician
+意 : 뜻 : 의 : meaning, intention
+二 : 두 : 이 : two
+以 : 써 : 이 : use, with
+已 : 이미 : 이 : already
+耳 : 귀 : 이 : ear
+而 : 말 이을 : 이 : and, but
+異 : 다를 : 이 : different, strange
+移 : 옮길 : 이 : move, transfer
+益 : 더할 : 익 : increase, benefit
+人 : 사람 : 인 : person, people
+引 : 끌 : 인 : pull, lead
+仁 : 어질 : 인 : benevolence, virtue
+因 : 인할 : 인 : cause, reason
+忍 : 참을 : 인 : endure, tolerate
+認 : 알 : 인 : recognize, acknowledge
+寅 : 동방 : 인 : the third Earthly Branch, sign of the Tiger
+印 : 도장 : 인 : seal, stamp
+一 : 한 : 일 : one
+日 : 날 : 일 : sun, day
+壬 : 아홉째 천간 : 임 : the ninth Heavenly Stem
+入 : 들 : 입 : enter, in
+子 : 아들 : 자 : child, son
+字 : 글자 : 자 : character, letter
+自 : 스스로 : 자 : self, oneself
+者 : 놈 : 자 : one who, that
+姉 : 손윗누이 : 자 : older sister
+慈 : 사랑할 : 자 : love, compassion
+作 : 지을 : 작 : make, create
+昨 : 어제 : 작 : yesterday
+長 : 길 : 장 : long, chief
+章 : 글 : 장 : chapter, section
+場 : 마당 : 장 : field, place
+將 : 장차 : 장 : will, shall
+壯 : 씩씩할 : 장 : strong, robust
+才 : 재주 : 재 : talent, ability
+材 : 재목 : 재 : material, talent
+財 : 재물 : 재 : wealth, fortune
+在 : 있을 : 재 : exist, be present
+栽 : 심을 : 재 : plant, cultivate
+再 : 두 : 재 : again, once more
+哉 : 어조사 : 재 : oh, alas
+爭 : 다툴 : 쟁 : contend, dispute
+著 : 나타날 : 저 : appear, be visible
+貯 : 쌓을 : 저 : save, store
+低 : 밑 : 저 : low, below
+的 : 과녁 : 적 : target, mark
+赤 : 붉을 : 적 : red, crimson
+適 : 갈 : 적 : suitable, appropriate
+敵 : 원수 : 적 : enemy, foe
+田 : 밭 : 전 : field, rice paddy
+全 : 온전할 : 전 : whole, entire
+典 : 법 : 전 : law, code
+前 : 앞 : 전 : front, before
+展 : 펼 : 전 : unfold, expand
+戰 : 싸울 : 전 : war, battle
+電 : 번개 : 전 : lightning, electricity
+錢 : 돈 : 전 : money, currency
+傳 : 전할 : 전 : transmit, convey
+節 : 마디 : 절 : section, knot
+絶 : 끊을 : 절 : cut off, abstain
+店 : 가게 : 점 : shop, store
+接 : 사귈 : 접 : connect, join
+丁 : 고무래 : 정 : nail, sign
+停 : 머무를 : 정 : stop, halt
+頂 : 정수리 : 정 : top, summit
+井 : 우물 : 정 : well
+正 : 바를 : 정 : right, correct
+政 : 정사 : 정 : politics, government
+定 : 정할 : 정 : fix, decide
+貞 : 곧을 : 정 : chaste, virtuous
+精 : 정할 : 정 : essence, spirit
+情 : 뜻 : 정 : feeling, emotion
+靜 : 고요할 : 정 : quiet, still
+淨 : 깨끗할 : 정 : pure, clean
+庭 : 뜰 : 정 : courtyard, garden
+弟 : 아우 : 제 : younger brother
+第 : 차례 : 제 : ordinal number, sequence
+祭 : 제사 : 제 : ritual, ceremony
+帝 : 임금 : 제 : emperor, sovereign
+題 : 표제 : 제 : title, subject
+除 : 덜 : 제 : remove, except
+諸 : 모두 : 제 : all, various
+製 : 지을 : 제 : make, manufacture
+兆 : 조짐 : 조 : omen, sign
+早 : 일찍 : 조 : early, soon
+造 : 만들 : 조 : make, construct
+鳥 : 새 : 조 : bird
+調 : 고를 : 조 : tune, adjust
+朝 : 아침 : 조 : morning, dynasty
+助 : 도울 : 조 : help, assist
+祖 : 조상 : 조 : ancestor, forefather
+足 : 발 : 족 : foot, leg
+族 : 겨레 : 족 : family, tribe
+存 : 있을 : 존 : exist, live
+尊 : 높을 : 존 : respect, honor
+卒 : 군사 : 졸 : soldier, death
+宗 : 마루 : 종 : ancestor, lineage
+種 : 씨 : 종 : seed, species
+鐘 : 종 : 종 : bell, clock
+終 : 끝날 : 종 : end, finish
+從 : 좇을 : 종 : follow, from
+左 : 왼 : 좌 : left
+坐 : 앉을 : 좌 : sit
+罪 : 허물 : 죄 : sin, crime
+主 : 주인 : 주 : master, owner
+注 : 물댈 : 주 : pour, inject
+住 : 살 : 주 : reside, live
+朱 : 붉을 : 주 : vermilion, red
+宙 : 집 : 주 : space, universe
+走 : 달릴 : 주 : run, walk
+酒 : 술 : 주 : alcohol, liquor
+晝 : 낮 : 주 : daytime, daylight
+竹 : 대 : 죽 : bamboo
+中 : 가운데 : 중 : middle, center
+重 : 무거울 : 중 : heavy, important
+衆 : 무리 : 중 : crowd, multitude
+卽 : 곧 : 즉 : immediately, right away
+曾 : 일찍 : 증 : once, before
+增 : 더할 : 증 : increase, add
+證 : 증거 : 증 : evidence, proof
+只 : 다만 : 지 : only, merely
+支 : 지탱할 : 지 : support, branch
+枝 : 가지 : 지 : branch, twig
+止 : 그칠 : 지 : stop, cease
+之 : 갈 : 지 : this, that
+知 : 알 : 지 : know, understand
+地 : 땅 : 지 : ground, earth
+指 : 손가락 : 지 : finger, point
+志 : 뜻 : 지 : will, intention
+至 : 이를 : 지 : arrive, reach
+紙 : 종이 : 지 : paper
+持 : 가질 : 지 : hold, carry
+直 : 곧을 : 직 : straight, direct
+辰 : 별 : 진 : dragon (zodiac sign)
+眞 : 참 : 진 : true, real
+進 : 나아갈 : 진 : advance, progress
+盡 : 다할 : 진 : exhaust, use up
+質 : 바탕 : 질 : substance, quality
+集 : 모일 : 집 : gather, collect
+執 : 잡을 : 집 : grasp, seize
+且 : 또 : 차 : moreover, furthermore
+次 : 버금 : 차 : next, order
+此 : 이 : 차 : this, these
+借 : 빌 : 차 : borrow, lend
+着 : 붙을 : 착 : attached, stuck
+察 : 살필 : 찰 : examine, observe
+參 : 간여할 : 참 : participate, visit
+昌 : 창성할 : 창 : prosperity, flourishing
+唱 : 노래 : 창 : sing, chant
+窓 : 창 : 창 : window
+菜 : 나물 : 채 : vegetable, dish
+採 : 캘 : 채 : pick, gather
+責 : 꾸짖을 : 책 : blame, criticize
+冊 : 책 : 책 : book, volume
+妻 : 아내 : 처 : wife
+處 : 곳 : 처 : place, location
+尺 : 자 : 척 : a unit of length, foot
+千 : 일천 : 천 : thousand
+天 : 하늘 : 천 : heaven, sky
+川 : 내 : 천 : river
+泉 : 샘 : 천 : spring, fountain
+淺 : 얕을 : 천 : shallow
+鐵 : 쇠 : 철 : iron
+靑 : 푸를 : 청 : blue, green
+淸 : 맑을 : 청 : clear, pure
+晴 : 갤 : 청 : clear, fine
+請 : 청할 : 청 : request, invite
+聽 : 들을 : 청 : listen, hear
+體 : 몸 : 체 : body, physical
+初 : 처음 : 초 : beginning, first
+草 : 풀 : 초 : grass, weed
+招 : 부를 : 초 : beckon, invite
+寸 : 마디 : 촌 : a unit of length, inch
+村 : 마을 : 촌 : village
+最 : 가장 : 최 : most, extreme
+秋 : 가을 : 추 : autumn
+追 : 쫓을 : 추 : chase, pursue
+推 : 밀 : 추 : push, recommend
+丑 : 소 : 축 : the second Earthly Branch, sign of the Ox
+祝 : 빌 : 축 : celebrate, wish
+春 : 봄 : 춘 : spring
+出 : 날 : 출 : go out, exit
+充 : 찰 : 충 : fill, supply
+忠 : 충성 : 충 : loyalty, devotion
+蟲 : 벌레 : 충 : insect
+取 : 취할 : 취 : take, get
+吹 : 불 : 취 : blow, puff
+就 : 이룰 : 취 : achieve, accomplish
+治 : 다스릴 : 치 : govern, manage
+致 : 보낼 : 치 : send, convey
+齒 : 이 : 치 : tooth
+則 : 법칙 : 칙 : rule, principle
+親 : 친할 : 친 : close, dear
+七 : 일곱 : 칠 : seven
+針 : 바늘 : 침 : needle
+快 : 쾌할 : 쾌 : quick, pleasant
+他 : 다를 : 타 : other, another
+打 : 칠 : 타 : hit, strike
+脫 : 벗을 : 탈 : take off, escape
+探 : 찾을 : 탐 : explore, search
+太 : 클 : 태 : big, excessive
+泰 : 클 : 태 : peaceful, grand
+宅 : 집 : 택 : house, residence
+土 : 흙 : 토 : earth, soil
+通 : 통할 : 통 : pass through, communicate
+統 : 큰 줄기 : 통 : unite, govern
+退 : 물러날 : 퇴 : retreat, withdraw
+投 : 던질 : 투 : throw, cast
+特 : 수컷 : 특 : special, unique
+破 : 깨뜨릴 : 파 : break, destroy
+波 : 물결 : 파 : wave
+判 : 판가름할 : 판 : judge, distinguish
+八 : 여덟 : 팔 : eight
+貝 : 조개 : 패 : shell, cowrie
+敗 : 패할 : 패 : defeat, failure
+片 : 조각 : 편 : piece, slice
+便 : 편할 : 편 : convenient
+篇 : 책 : 편 : chapter, article
+平 : 평평할 : 평 : flat, level
+閉 : 닫을 : 폐 : close, shut
+布 : 베 : 포 : cloth, fabric
+抱 : 안을 : 포 : embrace, hug
+暴 : 사나울 : 폭 : violent, sudden
+表 : 겉 : 표 : surface, exterior
+品 : 물건 : 품 : product, article
+風 : 바람 : 풍 : wind
+豊 : 풍년 : 풍 : abundant, plentiful
+皮 : 가죽 : 피 : skin, leather
+彼 : 저 : 피 : that, those
+必 : 반드시 : 필 : must, necessarily
+匹 : 짝 : 필 : a pair, couple
+筆 : 붓 : 필 : brush, pen
+下 : 아래 : 하 : below, down
+夏 : 여름 : 하 : summer
+賀 : 하례 : 하 : congratulate, wish
+何 : 어찌 : 하 : what, how
+河 : 물 : 하 : river
+學 : 배울 : 학 : study, learn
+閑 : 막을 : 한 : leisure, idleness
+寒 : 찰 : 한 : cold
+恨 : 한할 : 한 : hate, resent
+限 : 한계 : 한 : limit, restrict
+韓 : 나라 이름 : 한 : Korea
+漢 : 한수 : 한 : Han River
+合 : 합할 : 합 : combine, unite
+恒 : 항상 : 항 : constant, always
+害 : 해칠 : 해 : harm, damage
+海 : 바다 : 해 : sea, ocean
+亥 : 돼지 : 해 : twelfth Earthly Branch, sign of the Pig
+解 : 풀 : 해 : solve, untie
+行 : 다닐 : 행 : go, travel
+幸 : 다행 : 행 : happiness, good fortune
+向 : 향할 : 향 : face, towards
+香 : 향기 : 향 : fragrance, aroma
+鄕 : 시골 : 향 : countryside
+虛 : 빌 : 허 : empty, void
+許 : 허락할 : 허 : permit, allow
+革 : 가죽 : 혁 : leather
+現 : 나타날 : 현 : appear, manifest
+賢 : 어질 : 현 : wise, virtuous
+血 : 피 : 혈 : blood
+協 : 화할 : 협 : cooperate, harmonize
+兄 : 맏 : 형 : elder brother
+刑 : 형벌 : 형 : punishment, penalty
+形 : 모양 : 형 : form, shape
+惠 : 은혜 : 혜 : favor, grace
+戶 : 지게 : 호 : door, household
+乎 : 어조사 : 호 : interrogative particle
+呼 : 부를 : 호 : call, shout
+好 : 좋을 : 호 : good, favorable
+虎 : 범 : 호 : tiger
+號 : 부르짖을 : 호 : call, name
+湖 : 호수 : 호 : lake
+或 : 혹 : 혹 : or, perhaps
+婚 : 혼인할 : 혼 : marriage
+混 : 섞을 : 혼 : mix, blend
+紅 : 붉을 : 홍 : red, crimson
+火 : 불 : 화 : fire
+化 : 될 : 화 : change, transform
+花 : 꽃 : 화 : flower
+貨 : 재화 : 화 : goods, merchandise
+和 : 화할 : 화 : harmony, peace
+話 : 말할 : 화 : talk, speak
+畵 : 그림 : 화 : painting
+華 : 빛날 : 화 : glory, splendor
+歡 : 기뻐할 : 환 : happy, joyful
+患 : 근심 : 환 : distress, affliction
+活 : 살 : 활 : live, alive
+黃 : 누를 : 황 : yellow, ochre
+皇 : 임금 : 황 : emperor
+回 : 돌 : 회 : return, go back
+會 : 모일 : 회 : meeting, assembly
+孝 : 효도 : 효 : filial piety
+效 : 본받을 : 효 : effect, result
+後 : 뒤 : 후 : behind, after
+厚 : 두터울 : 후 : thick, heavy
+訓 : 가르칠 : 훈 : teach, instruct
+休 : 쉴 : 휴 : rest, break
+凶 : 흉할 : 흉 : bad, evil
+胸 : 가슴 : 흉 : chest, bosom
+黑 : 검을 : 흑 : black, dark
+興 : 일어날 : 흥 : rise, flourish
+希 : 바랄 : 희 : hope, wish
+喜 : 기쁠 : 희 : joy, delight

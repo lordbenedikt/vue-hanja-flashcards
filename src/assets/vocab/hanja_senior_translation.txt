@@ -1,0 +1,904 @@
+架 : 시렁 : 가 : frame, support
+暇 : 겨를 : 가 : leisure, break
+閣 : 누각 : 각 : pavilion, tower
+却 : 물리칠 : 각 : decline, refuse
+覺 : 깨달을 : 각 : perceive, realize
+刻 : 새길 : 각 : carve, engrave
+刊 : 책 펴낼 : 간 : publish, print
+肝 : 간 : 간 : liver, guts
+幹 : 줄기 : 간 : stem, trunk
+簡 : 대쪽 : 간 : simplicity, brevity
+姦 : 간사할 : 간 : crafty, cunning
+懇 : 정성 : 간 : sincerity, earnestness
+監 : 볼 : 감 : supervise, oversee
+鑑 : 거울 : 감 : mirror, reflection
+鑒 : 거울 : 감 : mirror, reflection
+康 : 편안할 : 강 : well-being, health
+剛 : 굳셀 : 강 : strong, firm
+鋼 : 강철 : 강 : steel
+綱 : 벼리 : 강 : principle, main point
+介 : 끼일 : 개 : mediate, intervene
+慨 : 분개할 : 개 : sigh, lament
+槪 : 대개 : 개 : generally, mostly
+蓋 : 덮을 : 개 : cover, lid
+盖 : 덮을 : 개 : cover, lid
+距 : 떨어질 : 거 : distance, gap
+拒 : 막을 : 거 : refuse, reject
+據 : 의거할 : 거 : rely on, depend on
+件 : 사건 : 건 : matter, case
+健 : 튼튼할 : 건 : strong, healthy
+傑 : 뛰어날 : 걸 : excellence, outstanding
+乞 : 빌 : 걸 : beg, request
+儉 : 검소할 : 검 : frugal, thrifty
+劍 : 칼 : 검 : sword, blade
+劒 : 칼 : 검 : sword, blade
+檢 : 검사할 : 검 : inspect, examine
+格 : 바로잡을 : 격 : form, style
+擊 : 부딪칠 : 격 : strike, hit
+激 : 과격할 : 격 : intense, fierce
+隔 : 사이 뜰 : 격 : separate, divide
+肩 : 어깨 : 견 : shoulder
+絹 : 명주 : 견 : silk, satin
+遣 : 보낼 : 견 : dispatch, send
+牽 : 끌 : 견 : pull, lead
+缺 : 이지러질 : 결 : lack, shortage
+兼 : 겸할 : 겸 : both, and
+謙 : 겸손할 : 겸 : modest, humble
+竟 : 다할 : 경 : eventually, actually
+境 : 지경 : 경 : boundary, border
+鏡 : 거울 : 경 : mirror, looking glass
+頃 : 잠깐 : 경 : a while, moment
+傾 : 기울 : 경 : lean, incline
+硬 : 굳을 : 경 : hard, firm
+警 : 경계할 : 경 : warn, caution
+徑 : 지름길 : 경 : shortcut, direct route
+卿 : 벼슬 : 경 : high-ranking official
+系 : 이을 : 계 : connect, tie
+係 : 걸릴 : 계 : be connected, be related
+戒 : 경계할 : 계 : caution, admonish
+械 : 형틀 : 계 : weapon, tool
+繼 : 이을 : 계 : succeed, inherit
+契 : 맺을 : 계 : covenant, agreement
+桂 : 계수나무 : 계 : cassia tree
+啓 : 열 : 계 : open, disclose
+階 : 섬돌 : 계 : steps, stairs
+繫 : 맬 : 계 : fasten, tie
+枯 : 마를 : 고 : wither, dry up
+姑 : 시어미 : 고 : aunt (paternal)
+庫 : 곳집 : 고 : warehouse, storage
+孤 : 외로울 : 고 : lonely, solitary
+鼓 : 북 : 고 : drum, beat
+稿 : 볏집 : 고 : draft, manuscript
+顧 : 돌아볼 : 고 : look back, turn around
+哭 : 울 : 곡 : weep, cry
+孔 : 구멍 : 공 : hole, opening
+供 : 이바지할 : 공 : supply, provide
+恭 : 공손할 : 공 : respectful, polite
+攻 : 칠 : 공 : attack, assault
+恐 : 두려울 : 공 : fear, be afraid
+貢 : 바칠 : 공 : offer, tribute
+誇 : 자랑할 : 과 : boast, brag
+寡 : 적을 : 과 : few, scarce
+郭 : 성곽 : 곽 : city wall, fortification
+館 : 객사 : 관 : building, mansion
+管 : 피리 : 관 : pipe, tube
+貫 : 꿸 : 관 : pass through, pierce
+慣 : 버릇 : 관 : habit, custom
+冠 : 갓 : 관 : crown, cap
+寬 : 너그러울 : 관 : broad, wide
+鑛 : 쇳돌 : 광 : ore, mineral
+狂 : 미칠 : 광 : mad, insane
+掛 : 걸 : 괘 : hang, suspend
+塊 : 흙덩이 : 괴 : lump, clump
+愧 : 부끄러워할 : 괴 : ashamed, embarrassed
+怪 : 기이할 : 괴 : strange, mysterious
+壞 : 무너질 : 괴 : break, deteriorate
+郊 : 성 밖 : 교 : outskirts, suburbs
+較 : 견줄 : 교 : compare, compete
+巧 : 공교할 : 교 : clever, skillful
+矯 : 바로잡을 : 교 : rectify, correct
+具 : 갖출 : 구 : tool, implement
+俱 : 함께 : 구 : together, all
+區 : 지경 : 구 : district, area
+驅 : 몰 : 구 : drive, expel
+苟 : 진실로 : 구 : if, only
+拘 : 잡을 : 구 : detain, arrest
+狗 : 개 : 구 : dog
+丘 : 언덕 : 구 : hill, mound
+懼 : 두려워할 : 구 : fear, be afraid
+龜 : 땅 이름 : 구 : turtle, tortoise
+構 : 얽을 : 구 : construct, frame
+球 : 공 : 구 : ball
+菊 : 국화 : 국 : chrysanthemum
+局 : 판 : 국 : bureau, office
+群 : 무리 : 군 : group, herd
+屈 : 굽을 : 굴 : bend, yield
+宮 : 집 : 궁 : palace, house
+窮 : 다할 : 궁 : exhausted, destitute
+拳 : 주먹 : 권 : fist
+厥 : 그 : 궐 : that, its
+軌 : 길 : 궤 : track, path
+鬼 : 귀신 : 귀 : ghost, spirit
+叫 : 부르짖을 : 규 : call, shout
+規 : 법 : 규 : rule, law
+糾 : 살필 : 규 : examine, scrutinize
+菌 : 버섯 : 균 : mushroom, fungus
+克 : 이길 : 극 : overcome, prevail
+劇 : 심할 : 극 : intense, severe
+斤 : 도끼 : 근 : axe, adze
+僅 : 겨우 : 근 : only, barely
+謹 : 삼갈 : 근 : careful, cautious
+錦 : 비단 : 금 : brocade, silk fabric
+禽 : 날짐승 : 금 : bird, fowl
+琴 : 거문고 : 금 : zither, harp
+級 : 등급 : 급 : grade, class
+肯 : 긍정할 : 긍 : willing, agreeable
+紀 : 벼리 : 기 : record, chronicle
+忌 : 꺼릴 : 기 : avoid, abhor
+旗 : 기 : 기 : flag, banner
+欺 : 속일 : 기 : deceive, cheat
+奇 : 기이할 : 기 : strange, peculiar
+騎 : 말탈 : 기 : ride, mount
+寄 : 부칠 : 기 : send, deliver
+豈 : 어찌 : 기 : how, what
+棄 : 버릴 : 기 : abandon, discard
+祈 : 빌 : 기 : pray, wish
+企 : 꾀할 : 기 : scheme, plan
+畿 : 경기 : 기 : capital region, province
+飢 : 주릴 : 기 : hunger, starvation
+器 : 그릇 : 기 : vessel, container
+機 : 틀 : 기 : machine, apparatus
+緊 : 긴요할 : 긴 : tense, urgent
+那 : 어찌 : 나 : how, what
+諾 : 대답할 : 낙 : promise, consent
+納 : 바칠 : 납 : accept, receive
+娘 : 아가씨 : 낭 : daughter, girl
+奈 : 어찌 : 내 : how, what
+耐 : 견딜 : 내 : endure, withstand
+寧 : 편안할 : 녕 : peaceful, tranquil
+奴 : 종 : 노 : slave, servant
+努 : 힘쓸 : 노 : exert, strive
+腦 : 뇌 : 뇌 : brain, intellect
+惱 : 괴로워할 : 뇌 : worry, vexation
+泥 : 진흙 : 니 : mud, clay
+茶 : 차 : 다 : tea
+旦 : 아침 : 단 : morning, dawn
+段 : 구분 : 단 : segment, section
+壇 : 단 : 단 : altar, platform
+檀 : 박달나무 : 단 : sandalwood, cedar
+斷 : 끊을 : 단 : sever, cut off
+團 : 둥글 : 단 : round, circular
+淡 : 묽을 : 담 : light, faint
+擔 : 멜 : 담 : carry, bear
+畓 : 논 : 답 : paddy field, rice field
+踏 : 밟을 : 답 : step on, tread
+唐 : 당나라 : 당 : Tang Dynasty, Chinese
+糖 : 사탕 : 당 : sugar, candy
+黨 : 무리 : 당 : party, group
+帶 : 띠 : 대 : belt, strap
+臺 : 대 : 대 : platform, stand
+貸 : 빌릴 : 대 : lend, loan
+隊 : 떼 : 대 : team, squad
+倒 : 넘어질 : 도 : fall, collapse
+挑 : 휠 : 도 : pick, select
+桃 : 복숭아나무 : 도 : peach, peach tree
+跳 : 뛸 : 도 : jump, leap
+逃 : 달아날 : 도 : escape, flee
+渡 : 건널 : 도 : cross, traverse
+陶 : 질그릇 : 도 : pottery, ceramics
+途 : 길 : 도 : way, road
+稻 : 벼 : 도 : rice, paddy
+導 : 이끌 : 도 : guide, lead
+盜 : 훔칠 : 도 : steal, rob
+塗 : 진흙 : 도 : paint, smear
+毒 : 독 : 독 : poison, venom
+督 : 살펴볼 : 독 : supervise, inspect
+篤 : 도타울 : 독 : earnest, devoted
+豚 : 돼지 : 돈 : pig, hog
+敦 : 도타울 : 돈 : sincere, kind
+突 : 갑자기 : 돌 : sudden, abrupt
+銅 : 구리 : 동 : copper, bronze
+凍 : 얼 : 동 : freeze, congeal
+鈍 : 무딜 : 둔 : dull, blunt
+屯 : 진칠 : 둔 : barracks, camp
+騰 : 오를 : 등 : soar, rise
+羅 : 벌릴 : 라 : spread, net
+絡 : 헌솜 : 락 : entwine, entangle
+亂 : 어지러울 : 란 : disorder, chaos
+蘭 : 난초 : 란 : orchid
+欄 : 난간 : 란 : fence, railing
+覽 : 볼 : 람 : view, observe
+濫 : 퍼질 : 람 : overflow, flood
+廊 : 복도 : 랑 : corridor, gallery
+略 : 다스릴 : 략 : strategy, plan
+掠 : 노략질할 : 략 : plunder, loot
+梁 : 들보 : 량 : beam, girder
+糧 : 양식 : 량 : grain, food
+諒 : 믿을 : 량 : trust, believe
+麗 : 고울 : 려 : beautiful, lovely
+慮 : 생각할 : 려 : consider, contemplate
+勵 : 힘쓸 : 려 : encourage, strive
+曆 : 책력 : 력 : calendar, record
+鍊 : 불릴 : 련 : refine, temper
+憐 : 불쌍히 여길 : 련 : pity, sympathize
+聯 : 잇달 : 련 : connect, link
+戀 : 사모할 : 련 : love, adore
+蓮 : 연 : 련 : lotus
+裂 : 찢을 : 렬 : split, tear
+劣 : 못할 : 렬 : inferior, inferiority
+廉 : 청렴할 : 렴 : honest, incorruptible
+獵 : 사냥 : 렵 : hunt, chase
+嶺 : 재 : 령 : ridge, peak
+零 : 떨어질 : 령 : zero, scatter
+靈 : 신령 : 령 : spirit, divine
+隷 : 종 : 례 : servant, slave
+爐 : 화로 : 로 : furnace, stove
+祿 : 복 : 록 : blessing, good fortune
+錄 : 기록할 : 록 : record, document
+鹿 : 사슴 : 록 : deer
+弄 : 희롱할 : 롱 : play with, tease
+雷 : 우레 : 뢰 : thunder, lightning
+賴 : 힘입을 : 뢰 : rely on, depend on
+了 : 마칠 : 료 : finish, complete
+僚 : 동료 : 료 : colleague, companion
+龍 : 용 : 룡 : dragon
+屢 : 창 : 루 : often, frequently
+樓 : 다락 : 루 : building, tower
+累 : 묶을 : 루 : burden, encumber
+淚 : 눈물 : 루 : tears
+漏 : 샐 : 루 : leak, drip
+類 : 무리 : 류 : type, category
+輪 : 바퀴 : 륜 : wheel, circle
+栗 : 밤나무 : 률 : chestnut tree
+率 : 헤아릴 : 률 : rate, ratio
+隆 : 클 : 륭 : prosperous, booming
+梨 : 배나무 : 리 : pear tree
+吏 : 벼슬아치 : 리 : government official
+離 : 떼놓을 : 리 : separate, detach
+裏 : 속 : 리 : inside, interior
+裡 : 속 : 리 : inside, interior
+履 : 밟을 : 리 : walk on, tread
+隣 : 이웃 : 린 : neighbor, adjacent
+臨 : 임할 : 림 : face, confront
+麻 : 삼 : 마 : hemp, flax
+磨 : 갈 : 마 : grind, polish
+幕 : 막 : 막 : curtain, screen
+漠 : 사막 : 막 : desert
+漫 : 질펀할 : 만 : comic, free-flowing
+慢 : 게으를 : 만 : slow, leisurely
+茫 : 아득할 : 망 : vast, boundless
+妄 : 망령될 : 망 : delusion, fantasy
+罔 : 그물 : 망 : net, trap
+梅 : 매화나무 : 매 : plum tree
+埋 : 묻을 : 매 : bury, hide
+媒 : 중매 : 매 : intermediary, matchmaker
+脈 : 맥 : 맥 : pulse, vein
+孟 : 맏 : 맹 : eldest, chief
+猛 : 사나울 : 맹 : fierce, violent
+盟 : 맹세할 : 맹 : alliance, pledge
+盲 : 소경 : 맹 : blind, blindness
+綿 : 이어질 : 면 : cotton, softness
+滅 : 멸망할 : 멸 : extinguish, annihilate
+銘 : 새길 : 명 : engrave, inscribe
+冥 : 어두울 : 명 : dark, obscure
+某 : 아무개 : 모 : certain, some
+謀 : 꾀할 : 모 : scheme, plot
+模 : 법 : 모 : model, pattern
+貌 : 얼굴 : 모 : appearance, looks
+募 : 모을 : 모 : recruit, gather
+慕 : 그리워할 : 모 : admire, long for
+侮 : 업신여길 : 모 : insult, ridicule
+冒 : 무릅쓸 : 모 : risk, brave
+牧 : 칠 : 목 : herd, tend
+睦 : 화목할 : 목 : harmonious, friendly
+沒 : 가라앉을 : 몰 : sink, submerge
+夢 : 꿈 : 몽 : dream
+蒙 : 입을 : 몽 : cover, deceive
+苗 : 모 : 묘 : seedling, sprout
+廟 : 사당 : 묘 : temple, shrine
+墓 : 무덤 : 묘 : tomb, grave
+貿 : 바꿀 : 무 : trade, commerce
+霧 : 안개 : 무 : fog, mist
+默 : 묵묵할 : 묵 : silent, quiet
+迷 : 미혹할 : 미 : bewilder, perplex
+微 : 작을 : 미 : tiny, small
+眉 : 눈썹 : 미 : eyebrow
+敏 : 재빠를 : 민 : quick, agile
+憫 : 근심할 : 민 : pity, sympathize
+蜜 : 꿀 : 밀 : honey
+泊 : 머무를 : 박 : stay, lodge
+拍 : 칠 : 박 : clap, pat
+迫 : 닥칠 : 박 : compel, force
+博 : 넓을 : 박 : extensive, broad
+薄 : 엷을 : 박 : thin, weak
+般 : 돌 : 반 : kind, sort
+盤 : 소반 : 반 : plate, dish
+班 : 나눌 : 반 : class, group
+返 : 돌아올 : 반 : return, go back
+叛 : 배반할 : 반 : rebellion, betrayal
+伴 : 짝 : 반 : companion, partner
+拔 : 뺄 : 발 : pull out, extract
+髮 : 터럭 : 발 : hair, mane
+芳 : 꽃다울 : 방 : fragrant, aromatic
+傍 : 곁 : 방 : beside, near
+妨 : 방해할 : 방 : hinder, disturb
+倣 : 본뜰 : 방 : imitate, follow
+邦 : 나라 : 방 : nation, country
+倍 : 곱 : 배 : double, multiple
+培 : 북돋을 : 배 : cultivate, foster
+配 : 아내 : 배 : match, pair
+排 : 밀칠 : 배 : arrange in order, push
+輩 : 무리 : 배 : generation, peer
+背 : 등 : 배 : back, reverse
+伯 : 맏 : 백 : elder brother, chief
+煩 : 괴로워할 : 번 : anxious, worried
+繁 : 많을 : 번 : numerous, complicated
+飜 : 펄럭일 : 번 : turn over, overturn
+罰 : 죄 : 벌 : punishment, penalty
+犯 : 범할 : 범 : commit, violate
+範 : 법 : 범 : example, model
+壁 : 벽 : 벽 : wall, partition
+碧 : 푸를 : 벽 : blue, green
+辯 : 말 잘할 : 변 : argue, debate
+辨 : 분별할 : 변 : distinguish, discern
+邊 : 가 : 변 : side, boundary
+竝 : 아우를 : 병 : side by side, together
+屛 : 병풍 : 병 : screen, shield
+普 : 널리 : 보 : universal, widespread
+譜 : 족보 : 보 : genealogy, score
+補 : 도울 : 보 : supplement, assist
+寶 : 보배 : 보 : treasure, precious
+腹 : 배 : 복 : abdomen, belly
+複 : 겹칠 : 복 : duplicate, complex
+卜 : 점 : 복 : divination, fortune-telling
+覆 : 뒤집힐 : 복 : overturn, cover
+峯 : 봉우리 : 봉 : summit, peak
+蜂 : 벌 : 봉 : bee, wasp
+封 : 봉할 : 봉 : seal, close
+鳳 : 봉황새 : 봉 : phoenix
+付 : 줄 : 부 : give, deliver
+符 : 부신 : 부 : talisman, charm
+附 : 붙을 : 부 : attach, append
+府 : 마을 : 부 : government office, mansion
+腐 : 썩을 : 부 : rot, decay
+負 : 질 : 부 : bear, carry
+副 : 버금 : 부 : deputy, assistant
+簿 : 장부 : 부 : register, book
+赴 : 나아갈 : 부 : go to, visit
+賦 : 구실 : 부 : tax, levy
+紛 : 어지러워질 : 분 : numerous, confused
+粉 : 가루 : 분 : powder, dust
+奔 : 달릴 : 분 : run, dash
+墳 : 무덤 : 분 : tomb, grave
+憤 : 성낼 : 분 : anger, resentment
+奮 : 떨칠 : 분 : strive, exert
+拂 : 떨 : 불 : brush off, dust
+崩 : 무너질 : 붕 : collapse, crumble
+批 : 칠 : 비 : criticize, comment
+卑 : 낮을 : 비 : humble, low
+婢 : 여자 종 : 비 : maid, servant
+碑 : 돌기둥 : 비 : stone monument, stele
+妃 : 왕비 : 비 : queen, consort
+肥 : 살 : 비 : fat, plump
+秘 : 숨길 : 비 : secret, hidden
+費 : 쓸 : 비 : expense, spend
+賓 : 손 : 빈 : guest, visitor
+頻 : 자주 : 빈 : frequent, often
+聘 : 찾아갈 : 빙 : employ, engage
+司 : 맡을 : 사 : manage, control
+詞 : 말씀 : 사 : words, speech
+蛇 : 뱀 : 사 : snake
+捨 : 버릴 : 사 : discard, abandon
+邪 : 간사할 : 사 : wicked, evil
+賜 : 줄 : 사 : bestow, grant
+斜 : 비낄 : 사 : slanting, oblique
+詐 : 속일 : 사 : deceive, trick
+社 : 토지의 신 : 사 : society, god
+沙 : 모래 : 사 : sand
+似 : 같을 : 사 : similar, alike
+査 : 조사할 : 사 : inspect, examine
+寫 : 베낄 : 사 : write, compose
+辭 : 말 : 사 : words, language
+斯 : 이 : 사 : this, thus
+祀 : 제사 : 사 : worship, sacrifice
+削 : 깎을 : 삭 : cut, pare
+朔 : 초하루 : 삭 : first day of the lunar month, beginning
+嘗 : 맛볼 : 상 : taste, try
+裳 : 치마 : 상 : skirt
+詳 : 자세할 : 상 : detailed, thorough
+祥 : 상서로울 : 상 : auspicious, fortunate
+床 : 상 : 상 : bed, couch
+象 : 코 끼리 : 상 : elephant
+像 : 형상 : 상 : image, likeness
+桑 : 뽕나무 : 상 : mulberry tree
+償 : 갚을 : 상 : repay, compensate
+狀 : 형상 : 상 : form, appearance
+雙 : 쌍 : 쌍 : pair, dual
+塞 : 변방 : 새 : border, frontier
+索 : 찾을 : 색 : search, seek
+敍 : 차례 : 서 : narrate, relate
+徐 : 천천히 할 : 서 : slowly, gently
+庶 : 여러 : 서 : various, numerous
+恕 : 용서할 : 서 : forgive, pardon
+緖 : 실마리 : 서 : clue, hint
+署 : 관청 : 서 : office, bureau
+誓 : 맹세할 : 서 : swear, vow
+逝 : 갈 : 서 : pass away, die
+析 : 가를 : 석 : divide, split
+釋 : 풀 : 석 : release, set free
+宣 : 베풀 : 선 : proclaim, announce
+旋 : 돌 : 선 : rotate, turn
+禪 : 봉선 : 선 : Zen meditation
+涉 : 건널 : 섭 : wade, cross
+攝 : 당길 : 섭 : take, absorb
+召 : 부를 : 소 : summon, call
+昭 : 밝을 : 소 : bright, luminous
+蘇 : 깨어날 : 소 : revive, resuscitate
+騷 : 떠들 : 소 : noisy, clamorous
+燒 : 불태울 : 소 : burn, scorch
+訴 : 하소연할 : 소 : complain, appeal
+掃 : 쓸 : 소 : sweep, brush
+疎 : 트일 : 소 : neglect, distant
+蔬 : 푸성귀 : 소 : vegetables, greens
+束 : 묶을 : 속 : bundle, tie
+粟 : 조 : 속 : millet, grain
+屬 : 엮을 : 속 : belong to, be subordinate to
+損 : 덜 : 손 : diminish, lose
+訟 : 송사할 : 송 : litigation, lawsuit
+頌 : 기릴 : 송 : praise, hymn
+誦 : 욀 : 송 : recite, chant
+刷 : 쓸 : 쇄 : brush, paint
+鎖 : 쇠사슬 : 쇄 : lock, chain
+衰 : 쇠할 : 쇠 : decline, weaken
+囚 : 가둘 : 수 : prisoner, captive
+需 : 구할 : 수 : need, requirement
+帥 : 장수 : 수 : commander, general
+殊 : 다를 : 수 : different, special
+隨 : 따를 : 수 : follow, accompany
+輸 : 나를 : 수 : transport, carry
+獸 : 짐승 : 수 : beast, animal
+睡 : 잘 : 수 : sleep, rest
+遂 : 이를 : 수 : accomplish, achieve
+垂 : 드리울 : 수 : hang down, droop
+搜 : 찾을 : 수 : search, seek
+孰 : 누구 : 숙 : who, which
+熟 : 익을 : 숙 : ripe, mature
+肅 : 엄숙할 : 숙 : solemn, respectful
+旬 : 열흘 : 순 : ten days, period
+殉 : 따라 죽을 : 순 : follow to the death, martyrdom
+循 : 돌 : 순 : follow, adhere to
+脣 : 입술 : 순 : lips
+瞬 : 눈깜짝일 : 순 : blink, twinkle
+巡 : 돌 : 순 : patrol, go around
+述 : 지을 : 술 : state, express
+術 : 재주 : 술 : art, skill
+濕 : 축축할 : 습 : wet, damp
+襲 : 엄습할 : 습 : attack, raid
+昇 : 오를 : 승 : rise, ascend
+僧 : 중 : 승 : monk, priest
+矢 : 화살 : 시 : arrow, dart
+侍 : 모실 : 시 : serve, attend
+息 : 숨쉴 : 식 : breath, rest
+飾 : 꾸밀 : 식 : decorate, adorn
+伸 : 펼 : 신 : stretch, extend
+晨 : 새벽 : 신 : morning, dawn
+愼 : 삼갈 : 신 : cautious, careful
+尋 : 찾을 : 심 : seek, search
+審 : 살필 : 심 : examine, judge
+牙 : 어금니 : 아 : tooth, tusk
+芽 : 싹 : 아 : bud, sprout
+雅 : 우아할 : 아 : elegant, graceful
+亞 : 버금 : 아 : Asia, next to
+餓 : 굶주릴 : 아 : hungry, starving
+岳 : 큰 산 : 악 : mountain peak, summit
+岸 : 언덕 : 안 : shore, bank
+雁 : 기러기 : 안 : wild goose
+謁 : 뵐 : 알 : pay respects, visit
+壓 : 누를 : 압 : press, push down
+押 : 누를 : 압 : push, press
+央 : 가운데 : 앙 : center, middle
+殃 : 재앙 : 앙 : disaster, calamity
+涯 : 물가 : 애 : shore, horizon
+厄 : 재앙 : 액 : misfortune, calamity
+額 : 이마 : 액 : forehead, brow
+耶 : 어조사 : 야 : expressive sound
+躍 : 뛸 : 약 : leap, jump
+壤 : 흙 : 양 : soil, earth
+樣 : 모양 : 양 : appearance, shape
+楊 : 버들 : 양 : willow
+御 : 어거할 : 어 : serve, obey
+抑 : 누를 : 억 : suppress, restrain
+焉 : 어찌 : 언 : how, why
+予 : 나 : 여 : I, me
+輿 : 수레 : 여 : carriage, vehicle
+譯 : 통변할 : 역 : translate, interpret
+驛 : 역참 : 역 : postal station, relay station
+役 : 부릴 : 역 : duty, service
+疫 : 염병 : 역 : epidemic, plague
+域 : 지경 : 역 : area, domain
+延 : 끌 : 연 : extend, prolong
+燃 : 탈 : 연 : burn, ignite
+燕 : 제비 : 연 : swallow (bird)
+沿 : 따를 : 연 : follow along, trace
+鉛 : 납 : 연 : lead
+宴 : 잔치 : 연 : feast, banquet
+軟 : 연할 : 연 : soft, flexible
+演 : 연역할 : 연 : perform, act
+緣 : 인연 : 연 : fate, destiny
+閱 : 검열할 : 열 : inspect, review
+染 : 물들일 : 염 : dye, color
+鹽 : 소금 : 염 : salt
+泳 : 헤엄칠 : 영 : swim
+詠 : 읊을 : 영 : chant, sing
+營 : 경영할 : 영 : operate, manage
+影 : 그림자 : 영 : shadow
+映 : 비출 : 영 : reflect, cast
+豫 : 미리 : 예 : in advance, beforehand
+譽 : 기릴 : 예 : praise, honor
+銳 : 날카로울 : 예 : sharp, keen
+汚 : 더러울 : 오 : dirty, filthy
+嗚 : 탄식소리 : 오 : sigh, lament
+娛 : 즐거워할 : 오 : amuse, entertain
+傲 : 거만할 : 오 : proud, arrogant
+獄 : 옥 : 옥 : prison, jail
+溫 : 따뜻할 : 온 : warm, mild
+翁 : 늙은이 : 옹 : old man, elderly
+擁 : 안을 : 옹 : embrace, hug
+緩 : 느릴 : 완 : slow, gentle
+畏 : 두려워할 : 외 : fear, dread
+腰 : 허리 : 요 : waist, hip
+搖 : 흔들 : 요 : shake, sway
+遙 : 멀 : 요 : distant, far
+謠 : 노래 : 요 : song, ballad
+慾 : 욕심 : 욕 : desire, greed
+辱 : 욕보일 : 욕 : disgrace, insult
+庸 : 쓸 : 용 : common, ordinary
+羽 : 깃 : 우 : feather, wing
+郵 : 역참 : 우 : mail, post
+愚 : 어리석을 : 우 : foolish, ignorant
+偶 : 짝 : 우 : accidental, occasional
+優 : 넉넉할 : 우 : excellent, superior
+韻 : 운 : 운 : rhyme, rhythm
+員 : 관원 : 원 : member, personnel
+源 : 근원 : 원 : source, origin
+援 : 당길 : 원 : support, assist
+院 : 담 : 원 : institution, school
+越 : 넘을 : 월 : exceed, surpass
+胃 : 밥통 : 위 : stomach
+謂 : 이를 : 위 : say, speak
+圍 : 둘레 : 위 : surround, encircle
+緯 : 씨 : 위 : latitude
+衛 : 지킬 : 위 : guard, defend
+違 : 어길 : 위 : violate, go against
+委 : 맡길 : 위 : entrust, delegate
+慰 : 위로할 : 위 : comfort, console
+僞 : 거짓 : 위 : false, fake
+幽 : 그윽할 : 유 : dim, faint
+惟 : 생각할 : 유 : think, consider
+維 : 맬 : 유 : maintain, preserve
+乳 : 젖 : 유 : milk
+儒 : 선비 : 유 : Confucian scholar
+裕 : 넉넉할 : 유 : abundant, affluent
+誘 : 꾈 : 유 : entice, tempt
+愈 : 나을 : 유 : heal, recover
+悠 : 멀 : 유 : leisurely, slow
+閏 : 윤달 : 윤 : intercalary, leap (month)
+潤 : 젖을 : 윤 : moisten, enrich
+隱 : 숨길 : 은 : hide, conceal
+淫 : 음란할 : 음 : obscene, immoral
+凝 : 엉길 : 응 : congeal, freeze
+宜 : 마땅할 : 의 : suitable, appropriate
+儀 : 거동 : 의 : ceremony, ritual
+疑 : 의심할 : 의 : doubt, suspect
+夷 : 오랑캐 : 이 : barbarian, foreigner
+翼 : 날개 : 익 : wing
+姻 : 혼인 : 인 : marriage, relationship
+逸 : 편안할 : 일 : escape, elude
+任 : 맡길 : 임 : entrust, assign
+賃 : 품팔이 : 임 : rent, fee
+玆 : 이 : 자 : this, these
+紫 : 자줏빛 : 자 : purple, violet
+資 : 재물 : 자 : wealth, resources
+姿 : 맵시 : 자 : appearance, figure
+恣 : 방자할 : 자 : unrestrained, indulgent
+刺 : 찌를 : 자 : stab, pierce
+酌 : 따를 : 작 : pour, serve (drink)
+爵 : 벼슬 : 작 : noble title, rank
+殘 : 해칠 : 잔 : remain, vestige
+潛 : 잠길 : 잠 : submerge, hide
+暫 : 잠시 : 잠 : temporary, momentary
+雜 : 섞일 : 잡 : mixed, miscellaneous
+丈 : 어른 : 장 : adult, grown-up
+張 : 베풀 : 장 : stretch, extend
+帳 : 휘장 : 장 : curtain, screen
+莊 : 장중할 : 장 : village, hamlet
+裝 : 꾸밀 : 장 : dress up,装
+奬 : 장려할 : 장 : encourage, reward
+墻 : 담 : 장 : wall, fence
+牆 : 담 : 장 : wall, partition
+葬 : 장사지낼 : 장 : bury, inter
+粧 : 단장할 : 장 : makeup, cosmetics
+掌 : 손바닥 : 장 : palm (of hand)
+藏 : 감출 : 장 : hide, conceal
+臟 : 내장 : 장 : internal organs
+障 : 가로막을 : 장 : hinder, obstruct
+腸 : 창자 : 장 : intestines
+災 : 재앙 : 재 : disaster, calamity
+裁 : 마를 : 재 : cut, tailor
+載 : 실을 : 재 : carry, load
+宰 : 재상 : 재 : rule, govern
+底 : 바닥 : 저 : bottom, base
+抵 : 거스를 : 저 : resist, oppose
+滴 : 물방울 : 적 : drop, drip
+摘 : 딸 : 적 : pluck, pick
+寂 : 고요할 : 적 : silent, quiet
+籍 : 서적 : 적 : registered, enrolled
+賊 : 도둑 : 적 : thief, burglar
+跡 : 자취 : 적 : trace, footprint
+蹟 : 자취 : 적 : trace, footprint
+積 : 쌓을 : 적 : accumulate, pile up
+績 : 길쌈할 : 적 : achievement, performance
+專 : 오로지 : 전 : exclusive, dedicated
+轉 : 구를 : 전 : turn, rotate
+殿 : 큰 집 : 전 : palace, hall
+切 : 끊을 : 절 : cut, sever
+折 : 꺾을 : 절 : fold, break
+竊 : 훔칠 : 절 : steal, pilfer
+占 : 차지할 : 점 : occupy, possess
+點 : 점 : 점 : point, dot
+漸 : 점점 : 점 : gradually, slowly
+蝶 : 나비 : 접 : butterfly
+亭 : 정자 : 정 : pavilion, gazebo
+訂 : 바로잡을 : 정 : correct, arrange
+廷 : 조정 : 정 : royal court, palace
+程 : 단위 : 정 : degree, standard
+征 : 칠 : 정 : expedition, conquest
+整 : 가지런할 : 정 : orderly, neat
+提 : 끌 : 제 : lift, raise
+堤 : 방죽 : 제 : dike, embankment
+制 : 억제할 : 제 : control, restrain
+際 : 사이 : 제 : between, among
+齊 : 가지런할 : 제 : orderly, neat
+濟 : 건널 : 제 : cross, go over
+弔 : 조상할 : 조 : mourn, comfort
+燥 : 마를 : 조 : dry, parch
+操 : 잡을 : 조 : grasp, control
+照 : 비출 : 조 : shine, illuminate
+條 : 가지 : 조 : branch, twig
+潮 : 조수 : 조 : tide, current
+租 : 세금 : 조 : tax, rent
+組 : 끈 : 조 : group, assemble
+拙 : 졸할 : 졸 : clumsy, awkward
+縱 : 늘어질 : 종 : release, let go
+佐 : 도울 : 좌 : assist, help
+座 : 자리 : 좌 : seat, place
+舟 : 배 : 주 : boat, ship
+周 : 두루 : 주 : around, circumference
+株 : 그루 : 주 : stock, share
+州 : 고을 : 주 : state, province
+洲 : 섬 : 주 : island, sandbank
+柱 : 기둥 : 주 : pillar, column
+奏 : 아뢸 : 주 : play music, report
+珠 : 구슬 : 주 : bead, pearl
+鑄 : 부어 만들 : 주 : cast, mold
+準 : 법도 : 준 : standard, criterion
+俊 : 준걸 : 준 : talented, handsome
+遵 : 좇을 : 준 : follow, adhere to
+仲 : 버금 : 중 : middle, intermediary
+憎 : 미워할 : 증 : hate, detest
+贈 : 보낼 : 증 : give, present
+症 : 증세 : 증 : symptom, illness
+蒸 : 찔 : 증 : steam, evaporate
+池 : 못 : 지 : pond, pool
+誌 : 기록할 : 지 : record, document
+智 : 지혜 : 지 : wisdom, intelligence
+遲 : 늦을 : 지 : late, delayed
+職 : 벼슬 : 직 : job, occupation
+織 : 짤 : 직 : weave, knit
+振 : 떨칠 : 진 : shake, wave
+鎭 : 진압할 : 진 : calm, suppress
+陳 : 베풀 : 진 : exhibit, display
+陣 : 진칠 : 진 : formation, battle array
+珍 : 보배 : 진 : rare, precious
+震 : 진동할 : 진 : shake, tremble
+秩 : 차례 : 질 : order, rank
+疾 : 병 : 질 : illness, disease
+姪 : 조카 : 질 : niece, nephew
+徵 : 부를 : 징 : call, summon
+懲 : 혼날 : 징 : punish, discipline
+差 : 어긋날 : 차 : differ, deviate
+錯 : 섞일 : 착 : mix, blend
+捉 : 잡을 : 착 : catch, seize
+贊 : 도울 : 찬 : assist, help
+讚 : 기릴 : 찬 : praise, commend
+慘 : 참혹할 : 참 : tragic, miserable
+慙 : 부끄러울 : 참 : ashamed, embarrassed
+倉 : 곳집 : 창 : warehouse, granary
+創 : 비롯할 : 창 : create, establish
+蒼 : 푸를 : 창 : blue-green, pale
+暢 : 펼 : 창 : smooth, unobstructed
+彩 : 무늬 : 채 : color, hue
+債 : 빚 : 채 : debt, liability
+策 : 꾀 : 책 : plan, strategy
+斥 : 물리칠 : 척 : reject, repel
+拓 : 열 : 척 : open up, develop
+戚 : 겨레 : 척 : relatives, kindred
+賤 : 천할 : 천 : low, cheap
+踐 : 밟을 : 천 : step on, tread
+遷 : 옮길 : 천 : move, transfer
+薦 : 천거할 : 천 : recommend, introduce
+哲 : 밝을 : 철 : wise, bright
+徹 : 뚫을 : 철 : penetrate, pierce through
+尖 : 뾰족할 : 첨 : sharp, pointed
+添 : 더할 : 첨 : add, augment
+妾 : 첩 : 첩 : concubine, mistress
+廳 : 관청 : 청 : hall, office
+替 : 바꿀 : 체 : substitute, replace
+滯 : 막힐 : 체 : stagnate, be delayed
+逮 : 잡을 : 체 : catch, seize
+遞 : 갈마들 : 체 : hand over, deliver
+肖 : 닮을 : 초 : resemble, look like
+超 : 넘을 : 초 : exceed, surpass
+抄 : 베낄 : 초 : copy, transcribe
+礎 : 주춧돌 : 초 : cornerstone, foundation stone
+秒 : 초 : 초 : second
+促 : 재촉할 : 촉 : urge, hasten
+燭 : 촛불 : 촉 : candle, taper
+觸 : 닿을 : 촉 : touch, contact
+銃 : 총 : 총 : gun, rifle
+總 : 거느릴 : 총 : total, overall
+聰 : 총명할 : 총 : intelligent, clever
+催 : 재촉할 : 최 : urge, press
+抽 : 뽑을 : 추 : draw out, extract
+醜 : 추할 : 추 : ugly, unsightly
+畜 : 가축 : 축 : livestock, domestic animals
+蓄 : 쌓을 : 축 : accumulate, store
+築 : 쌓을 : 축 : build, construct
+逐 : 쫓을 : 축 : chase, pursue
+縮 : 다스릴 : 축 : shrink, contract
+衝 : 찌를 : 충 : rush, collide
+臭 : 냄새 : 취 : smell, odor
+醉 : 취할 : 취 : get drunk, intoxicated
+趣 : 달릴 : 취 : charm, taste
+側 : 곁 : 측 : side, beside
+測 : 잴 : 측 : measure, gauge
+層 : 층 : 층 : layer, floor
+値 : 값 : 치 : value, price
+置 : 둘 : 치 : place, put
+恥 : 부끄러워할 : 치 : shame, disgrace
+漆 : 옻 : 칠 : lacquer, paint
+侵 : 침노할 : 침 : invade, encroach
+浸 : 담글 : 침 : soak, immerse
+寢 : 잠잘 : 침 : sleep, rest
+沈 : 가라앉을 : 침 : sink, submerge
+枕 : 베개 : 침 : pillow, cushion
+稱 : 일컬을 : 칭 : call, name
+妥 : 온당할 : 타 : satisfactory, appropriate
+墮 : 떨어질 : 타 : fall, drop
+濁 : 흐릴 : 탁 : muddy, turbid
+托 : 밀 : 탁 : entrust, rely on
+濯 : 씻을 : 탁 : wash, rinse
+卓 : 높을 : 탁 : outstanding, excellent
+炭 : 숯 : 탄 : charcoal, coal
+歎 : 탄식할 : 탄 : sigh, lament
+彈 : 탄알 : 탄 : bullet, projectile
+誕 : 태어날 : 탄 : birth, origin
+奪 : 빼앗을 : 탈 : take away, rob
+貪 : 탐할 : 탐 : greed, desire
+塔 : 탑 : 탑 : tower, pagoda
+湯 : 끓일 : 탕 : soup, hot water
+怠 : 게으름 : 태 : negligence, laziness
+殆 : 위태할 : 태 : almost, nearly
+態 : 모양 : 태 : state, condition
+澤 : 못 : 택 : pond, pool
+擇 : 가릴 : 택 : choose, select
+吐 : 토할 : 토 : vomit, spit out
+討 : 칠 : 토 : discuss, debate
+痛 : 아플 : 통 : pain, ache
+透 : 통할 : 투 : penetrate, clear
+鬪 : 싸움 : 투 : fight, struggle
+派 : 물 갈래 : 파 : faction, group
+播 : 뿌릴 : 파 : scatter, spread
+罷 : 방면할 : 파 : cease, give up
+頗 : 자못 : 파 : very, somewhat
+把 : 잡을 : 파 : hold, grasp
+板 : 널빤지 : 판 : board, plank
+販 : 팔 : 판 : sell, trade
+版 : 판목 : 판 : edition, version
+編 : 엮을 : 편 : weave, compile
+遍 : 두루 : 편 : everywhere, all over
+偏 : 치우칠 : 편 : lean, incline
+評 : 평론할 : 평 : criticize, review
+肺 : 허파 : 폐 : lung
+廢 : 폐할 : 폐 : abolish, waste
+弊 : 폐단 : 폐 : evil, harm
+蔽 : 덮을 : 폐 : cover, hide
+幣 : 비단 : 폐 : cloth, silk
+包 : 쌀 : 포 : wrap, package
+胞 : 태보 : 포 : cell, womb
+飽 : 배부를 : 포 : eat to one's fill, be sated
+浦 : 물가 : 포 : seashore, bay
+捕 : 사로잡을 : 포 : catch, arrest
+爆 : 터질 : 폭 : explode, burst
+幅 : 너비 : 폭 : width, breadth
+票 : 표 : 표 : ticket, vote
+標 : 표 : 표 : mark, sign
+漂 : 떠돌 : 표 : drift, float
+疲 : 지칠 : 피 : tired, weary
+被 : 이불 : 피 : cover, be covered with
+避 : 피할 : 피 : avoid, evade
+畢 : 마칠 : 필 : finish, complete
+荷 : 연 : 하 : lotus, burden
+鶴 : 학 : 학 : crane
+旱 : 가물 : 한 : drought, dryness
+汗 : 땀 : 한 : sweat
+割 : 나눌 : 할 : divide, cut
+咸 : 다 : 함 : all, complete
+含 : 머금을 : 함 : contain, include
+陷 : 빠질 : 함 : sink, fall into
+巷 : 거리 : 항 : alley, street
+港 : 항구 : 항 : harbor, port
+項 : 목 : 항 : item, section
+抗 : 막을 : 항 : resist, oppose
+航 : 배 : 항 : navigate, sail
+奚 : 어찌 : 해 : how, why
+該 : 그 : 해 : that, such
+核 : 씨 : 핵 : nucleus, core
+響 : 울림 : 향 : sound, echo
+享 : 누릴 : 향 : enjoy, have
+軒 : 추녀 : 헌 : balcony, eaves
+憲 : 법 : 헌 : constitution, law
+獻 : 바칠 : 헌 : dedicate, offer
+險 : 험할 : 험 : dangerous, perilous
+驗 : 시험할 : 험 : examine, test
+玄 : 검을 : 현 : dark, mysterious
+絃 : 악기 줄 : 현 : string, chord
+縣 : 고을 : 현 : county, district
+懸 : 매달 : 현 : hang, suspend
+顯 : 나타날 : 현 : appear, manifest
+穴 : 구멍 : 혈 : hole, opening
+脅 : 옆구리 : 협 : coerce, threaten
+亨 : 형통할 : 형 : proper, smooth
+螢 : 반디 : 형 : firefly, glowworm
+衡 : 저울대 : 형 : balance, scale
+慧 : 슬기로울 : 혜 : intelligent, wise
+兮 : 어조사 : 혜 : (particle indicating an oath)
+互 : 서로 : 호 : each other, mutual
+胡 : 오랑캐 : 호 : foreign, barbarian
+浩 : 클 : 호 : vast, grand
+毫 : 가는 털 : 호 : tiny, fine hair
+豪 : 호걸 : 호 : bold, heroic
+護 : 보호할 : 호 : protect, guard
+惑 : 미혹할 : 혹 : confuse, bewilder
+昏 : 어두울 : 혼 : dark, dim
+魂 : 넋 : 혼 : spirit, soul
+忽 : 소홀히 할 : 홀 : suddenly, abruptly
+洪 : 큰물 : 홍 : flood, deluge
+弘 : 넓을 : 홍 : vast, spacious
+鴻 : 큰 기러기 : 홍 : great, vast
+禾 : 벼 : 화 : grain, cereal
+禍 : 재앙 : 화 : disaster, misfortune
+確 : 굳을 확 : 碻 : certain, sure
+穫 : 벼 벨 : 확 : harvest, crop
+擴 : 넓힐 : 확 : expand, enlarge
+丸 : 알 : 환 : pill, small round object
+換 : 바꿀 : 환 : exchange, swap
+環 : 고리 : 환 : ring, circle
+還 : 돌아올 : 환 : return, give back
+況 : 하물며 : 황 : furthermore, moreover
+荒 : 거칠 : 황 : rough, wild
+悔 : 뉘우칠 : 회 : regret, repent
+懷 : 품을 : 회 : embrace, cherish
+獲 : 얻을 : 획 : gain, obtain
+劃 : 그을 : 획 : draw, mark
+橫 : 가로 : 횡 : horizontal, crosswise
+曉 : 새벽 : 효 : dawn, daybreak
+侯 : 제후 : 후 : lord, marquis
+候 : 기후 : 후 : season, weather
+毁 : 헐 : 훼 : ruin, destroy
+揮 : 휘두를 : 휘 : wave, brandish
+輝 : 빛날 : 휘 : shine, glitter
+携 : 가질 : 휴 : carry, bring
+吸 : 숨 들이쉴 : 흡 : inhale, suck
+戱 : 놀이 : 희 : play, amusement
+稀 : 드물 : 희 : rare, uncommon

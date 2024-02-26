@@ -9,26 +9,37 @@
     <div style="height: 9em">
       <div v-if="isFront" class="hanja">{{ hanja }}</div>
       <div class="center" v-if="!isFront" style="padding: 0">
-        <span class="pronunciation">{{ pronunciation }}</span
+        <span class="pronunciation">({{ meaningKorean }} {{ pronunciation }})</span
         ><br />
         <span class="meaning">{{ meaningEnglish }}</span
         ><br />
       </div>
     </div>
   </base-card>
-  <base-button @click="nextWord">Next</base-button>
+  <base-button @click="$emit('storeData', false); $emit('nextWord', false);">Wrong</base-button>
+  <base-button style="margin-left: 4px;" @click="$emit('storeData', true); $emit('nextWord', true);">Correct</base-button>
 </template>
 
 <script>
 export default {
-  props: ["vocabset"],
+  emits: ["nextWord", "storeData"],
+  props: ["vocabset", "word"],
   watch: {
     vocabset() {
-      this.nextWord();
+      this.$emit.nextWord();
+    },
+    word(word) {
+      this.isFront = true;
+      this.hanja = word.substring(0, 1);
+      const info = word.substring(3, word.length - 1);
+      const infoParts = info.split("-").map((part) => part.trim());
+      this.pronunciation = infoParts[0];
+      this.meaningKorean = infoParts[1];
+      this.meaningEnglish = infoParts[2];
     },
   },
   mounted() {
-    this.nextWord();
+    this.$emit('nextWord', true);
   },
   data() {
     return {
@@ -59,18 +70,6 @@ export default {
         this.isFront = true;
       }
     },
-    nextWord() {
-      this.isFront = true;
-      const word = this.randomWord();
-      this.hanja = word.substring(0, 1);
-      const info = word.substring(3, word.length - 1);
-      const infoParts = info.split("-").map((part) => part.trim());
-      this.pronunciation = infoParts[0];
-      this.meaningEnglish = infoParts[2];
-    },
-    randomWord() {
-      return this.vocabset[Math.floor(Math.random() * this.vocabset.length)];
-    },
     isMobile() {
       return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)
     },
@@ -83,14 +82,14 @@ export default {
   font-size: 6em;
 }
 .pronunciation {
-  font-size: 2em;
+  font-size: 1.5em;
 }
 .meaning {
   font-size: 1.5em;
 }
 div.center {
   position: relative;
-  top: 20%;
+  top: 5%;
   /* text-align: middle; */
   /* vertical-align: baseline; */
   margin: auto;
