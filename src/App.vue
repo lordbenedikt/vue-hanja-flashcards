@@ -18,17 +18,14 @@
 
 <script>
 import FlashCard from "./components/FlashCard.vue";
+import arrays from "./util.js";
 // import basic_hanja from "./assets/vocab/basic_hanja.txt";
 import hanja_junior from "./assets/vocab/hanja_junior_translation.txt";
 // import hanja_senior from "./assets/vocab/hanja_senior.txt";
-// import vocab0 from "./assets/vocab/vocab_0.txt";
-import vocab1 from "./assets/vocab/vocab_1.txt";
-import vocab2 from "./assets/vocab/vocab_2.txt";
-import vocab3 from "./assets/vocab/vocab_3.txt";
-import vocab4 from "./assets/vocab/vocab_4.txt";
 
 // const REPS = 5;
-const MIN_SET_SIZE = 5;
+const MIN_SET_SIZE = 2; // Must >= 2
+const MAX_SET_SIZE = 30; // Actual max size is pow(2, MAX_SET_SIZE)
 
 export default {
   name: "App",
@@ -38,14 +35,18 @@ export default {
   data() {
     return {
       vocab: [],
-      currentVocabSet: 0,
+      currentVocabSet: 1,
       currentSubSet: [0, MIN_SET_SIZE],
-      currentSubSetShuffled: [0, MIN_SET_SIZE],
+      currentSubSetShuffled: arrays.range(0, MIN_SET_SIZE),
       currentVocabIndex: 0,
+      currentSubSetIndex: 0,
       madeError: false,
-      progress: Array(10).fill(0),
+      progress: Array(MAX_SET_SIZE).fill(0),
       depth: 0,
     };
+  },
+  mounted() {
+    this.chooseVocabSet(1);
   },
   async created() {
     // const juniorTds = [];
@@ -97,21 +98,24 @@ export default {
 
     navigator.clipboard.writeText(res);
 
-    let vocab0_alt = hanja_junior
-      .split("\n")
-      .slice(0, 30)
-      .map((line) => line.split(" : "))
-      .map(
-        (line) =>
-          line[0] + " (" + line[2] + " - " + line[1] + " - " + line[3] + ")"
-      )
-      .join("\n");
-
-    this.vocab.push(this.getVocabulary(vocab0_alt));
-    this.vocab.push(this.getVocabulary(vocab1));
-    this.vocab.push(this.getVocabulary(vocab2));
-    this.vocab.push(this.getVocabulary(vocab3));
-    this.vocab.push(this.getVocabulary(vocab4));
+    let vocabSetSize = 80;
+    for (let i = 0; i < 8; i++) {
+      let vocabSet = this.getVocabulary(hanja_junior
+        .split("\n")
+        .slice(i * vocabSetSize, (i + 1) * vocabSetSize)
+        .map((line) => line.split(" : "))
+        .map(
+          (line) =>
+            line[0] + " (" + line[2] + " - " + line[1] + " - " + line[3] + ")"
+        )
+        .join("\n"));
+      this.vocab.push(vocabSet);
+    }
+  },
+  watch: {
+    currentSubSetIndex(value) {
+      this.currentVocabIndex = this.currentSubSetShuffled[value];
+    }
   },
   methods: {
     chooseVocabSet(num) {
@@ -140,7 +144,7 @@ export default {
     //   return data;
     // },
     storeData(guessedRight) {
-      guessedRight == true
+      guessedRight == true;
       // if (guessedRight) {
       //   for (let i = 0; i < REPS; i++) {
       //     if (this.progressData[set][i].has(index)) {
@@ -164,15 +168,22 @@ export default {
       if (!knewWord) {
         this.madeError = true;
       }
-      if (this.currentVocabIndex + 1 == this.currentSubSet[1]) {
+      if (this.currentSubSetIndex >= this.currentSubSetShuffled.length - 1) {
         if (this.madeError) {
           this.madeError = false;
-          this.currentVocabIndex = this.currentSubSet[0];
         } else {
           this.nextSet();
         }
+
+        // shuffle subset
+        let currentWord = Number(this.currentSubSetShuffled.slice(-1));
+        do {
+          this.currentSubSetShuffled = arrays.range(this.currentSubSet[0], this.currentSubSet[1]);
+          arrays.shuffleArray(this.currentSubSetShuffled);
+        } while(currentWord === this.currentSubSetShuffled[0]);
+        this.currentSubSetIndex = 0
       } else {
-        this.currentVocabIndex++;
+        this.currentSubSetIndex++;
       }
     },
 
@@ -192,7 +203,14 @@ export default {
       if (this.currentSubSet[1] >= this.vocab[this.currentVocabSet].length) {
         this.currentSubSet[1] = this.vocab[this.currentVocabSet].length - 1;
       }
-      this.currentVocabIndex = this.currentSubSet[0];
+      // Don't go beyond array index bounds
+      if (this.currentSubSet[1] > this.vocab[this.currentVocabSet].length) {
+        this.currentSubSet[1] = this.vocab[this.currentVocabSet].length;
+      }
+      // Set subset start to 0 when done
+      if (this.currentSubSet[0] >= this.vocab[this.currentVocabSet].length-1) {
+        this.currentSubSet[0] = 0;
+      }
     },
 
     // nextWord() {
