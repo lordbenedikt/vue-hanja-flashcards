@@ -1,13 +1,17 @@
 <template>
   <h2>Study Hanja</h2>
   <div>
-    <base-button
-      v-for="i in 5"
-      :key="'choose_' + i"
-      @click="chooseVocabSet(i)"
-      style="margin-right: 4px"
-      >{{ i }}</base-button
-    >
+    <div 
+      v-for="row in 1" :key="'row_' + row"
+      style="margin-bottom: 4px">
+      <base-button
+        v-for="i in 5"
+        :key="'choose_' + i"
+        @click="chooseVocabSet(i)"
+        style="margin-right: 4px"
+        >{{ (row-1)*5 + i }}</base-button
+      >
+    </div>
   </div>
   <flash-card
     :word="vocab[currentVocabSet][currentVocabIndex]"
@@ -96,26 +100,28 @@ export default {
       .map((line) => line.split(" : ")[0])
       .join(" ");
 
-    navigator.clipboard.writeText(res);
+    // navigator.clipboard.writeText(res);
 
     let vocabSetSize = 80;
     for (let i = 0; i < 8; i++) {
-      let vocabSet = this.getVocabulary(hanja_junior
-        .split("\n")
-        .slice(i * vocabSetSize, (i + 1) * vocabSetSize)
-        .map((line) => line.split(" : "))
-        .map(
-          (line) =>
-            line[0] + " (" + line[2] + " - " + line[1] + " - " + line[3] + ")"
-        )
-        .join("\n"));
+      let vocabSet = this.getVocabulary(
+        hanja_junior
+          .split("\n")
+          .slice(i * vocabSetSize, (i + 1) * vocabSetSize)
+          .map((line) => line.split(" : "))
+          .map(
+            (line) =>
+              line[0] + " (" + line[2] + " - " + line[1] + " - " + line[3] + ")"
+          )
+          .join("\n")
+      );
       this.vocab.push(vocabSet);
     }
   },
   watch: {
     currentSubSetIndex(value) {
       this.currentVocabIndex = this.currentSubSetShuffled[value];
-    }
+    },
   },
   methods: {
     chooseVocabSet(num) {
@@ -178,10 +184,13 @@ export default {
         // shuffle subset
         let currentWord = Number(this.currentSubSetShuffled.slice(-1));
         do {
-          this.currentSubSetShuffled = arrays.range(this.currentSubSet[0], this.currentSubSet[1]);
+          this.currentSubSetShuffled = arrays.range(
+            this.currentSubSet[0],
+            this.currentSubSet[1]
+          );
           arrays.shuffleArray(this.currentSubSetShuffled);
-        } while(currentWord === this.currentSubSetShuffled[0]);
-        this.currentSubSetIndex = 0
+        } while (currentWord === this.currentSubSetShuffled[0]);
+        this.currentSubSetIndex = 0;
       } else {
         this.currentSubSetIndex++;
       }
@@ -208,7 +217,10 @@ export default {
         this.currentSubSet[1] = this.vocab[this.currentVocabSet].length;
       }
       // Set subset start to 0 when done
-      if (this.currentSubSet[0] >= this.vocab[this.currentVocabSet].length-1) {
+      if (
+        this.currentSubSet[0] >=
+        this.vocab[this.currentVocabSet].length - 1
+      ) {
         this.currentSubSet[0] = 0;
       }
     },
