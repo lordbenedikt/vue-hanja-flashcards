@@ -1,0 +1,310 @@
+大 : 큰 : 대 : Big
+小 : 작을 : 소 : Small
+中 : 가운데 : 중 : Middle
+山 : 뫼 : 산 : Mountain
+門 : 문 : 문 : Door
+入 : 들 : 입 : Enter, Entrance
+出 : 날 : 출 : Exit, To Exit
+口 : 입 : 구 : Mouth, Opening
+上 : 위 : 상 : Above, High
+下 : 아래 : 하 : Underneath, Below, Low
+日 : 날 : 일 : Day
+月 : 달 : 월 : Month
+年 : 해 : 년 : Year
+內 : 안 : 내 : Inside
+外 : 바깥 : 외 : Outside
+人 : 사람 : 인 : Person
+子 : 아들 : 자 : Person
+父 : 아비 : 부 : Father
+母 : 어미 : 모 : Mother
+男 : 사내 : 남 : Man, Male
+女 : 계집 : 여/녀 : Woman, Female
+一 : 한 : 일 : One
+二 : 두 : 이 : Two
+三 : 석 : 삼 : Three
+四 : 넉 : 사 : Four
+五 : 다섯 : 오 : Five
+六 : 여섯 : 륙 : Six
+七 : 일곱 : 칠 : Seven
+八 : 여덟 : 팔 : Eight
+九 : 아홉 : 구 : Nine
+十 : 열 : 십 : Ten
+東 : 동녘 : 동 : East (동대문)
+西 : 서녘 : 서 : West
+北 : 북녘 : 북 : North
+南 : 남녘 : 남 : South
+王 : 임금 : 왕 : King
+天 : 하늘 : 천 : Heaven
+手 : 손 : 수 : Hand
+字 : 글자 : 자 : Letter, Writing
+員 : 인원 : 원 : Person
+韓 : 나라이름 : 한 : Korea
+國 : 나라 : 국 : Country
+民 : 백성 : 민 : The people (of a country)
+美 : 아름다울 : 미 : Beautiful, United States
+漢 : 한나라 : 한 : Korea, China
+江 : 강 : 강 : River
+水 : 물 : 수 : Water
+川 : 내 : 천 : Stream
+冷 : 찰 : 랭 : Cold
+本 : 밑 : 본 : Origin
+心 : 마음 : 심 : Heart, Emotions
+身 : 몸 : 신 : Body
+體 : 몸 : 체 : Body
+感 : 느낄 : 감 : Feeling, Emotion
+家 : 집 : 가 : Family, House
+名 : 이름 : 명 : Name
+品 : 물건 : 품 : Thing
+金 : 한국식한자성 : 김, : Common Surname, Gold, Money
+李 : 오얏나무 : 리 : Common Surname
+正 : 바를 : 정 : Right, Proper, Correct
+無 : 없을 : 무 : To not have
+不 : 아니 : 부 : to not be
+用 : 쓸 : 용 : To use
+半 : 반 : 반 : Half
+白 : 흰 : 백 : White
+學 : 배울 : 학 : Learn, School
+生 : 날 : 생 : Life, Born
+校 : 학교 : 교 : School
+先 : 먼저 : 선 : First
+師 : 스승 : 사 : Teacher
+公 : 공평할 : 공 : Public, Shared, Equal
+市 : 저자 : 시 : City
+區 : 지경 : 구 : District, Division
+洞 : 골 : 동 : Neighborhood
+合 : 합할 : 합 : Combine, Unite
+場 : 마당 : 장 : Place, Location
+室 : 집 : 실 : Room
+食 : 밥 : 식 : Food
+地 : 땅 : 지 : Land, Earth
+方 : 모 : 방 : Area, Region, Side
+時 : 때 : 시 : Time
+期 : 말날 : 기 : Time, Period
+間 : 사이 : 간 : Space, Interval, Between
+同 : 한가지 : 동 : Same
+百 : 일백 : 백 : One Hundred, Everything, Total
+部 : 떼 : 부 : Division, Part
+分 : 나눌 : 분 : Division, Part, Minute
+多 : 많을 : 다 : Many, Most, All
+數 : 셀 : 수 : Number
+全 : 온전할 : 전 : Whole, All
+新 : 새 : 신 : New
+現 : 나타날 : 현 : Current
+代 : 대신 : 대 : Generation, Representative
+文 : 글월 : 문 : Culture, Writing
+化 : 될 : 화 : Change
+力 : 힘 : 력 : Power
+强 : 힘쓸 : 강 : Strength
+弱 : 약할 : 약 : Weak
+火 : 불 : 화 : Fire
+信 : 믿을 : 신 : Trust, Believe
+土 : 흙 : 토 : Earth
+世 : 인간 : 세 : Man, Humankind
+木 : 나무 : 목 : Tree
+球 : 공 : 구 : Ball, Circle
+立 : 설 : 립 : To be Set up, Established
+右 : 오른쪽 : 우 : Right
+左 : 왼 : 좌 : Left
+回 : 돌 : 회 : Turn, Turn around
+向 : 향할 : 향 : Direction
+反 : 돌아킬 : 반 : Opposite, Reverse
+工 : 장인 : 공 : Work, Labor
+業 : 업 : 업 : Work, Business
+務 : 힘 : 쓸 : Business, Affairs
+勤 : 부지런할 : 근 : Work, Diligence
+會 : 모일 : 회 : Meet, Gather
+者 : 놈 : 자 : People who do
+士 : 선비 : 사 : Scholar
+自 : 스스로 : 자 : oneself
+個 : 낱 : 개 : single, unit, piece
+主 : 임금 : 주, : Master, main
+言 : 말씀 : 언 : Language, words
+語 : 말씀 : 어 : Language
+話 : 말씀 : 화 : Speak, language
+談 : 말씀 : 담 : Conversation
+交 : 사귈 : 교 : Exchange, Communicate
+行 : 다닐 : 행 : Move, Circulation, Travel
+進 : 나아갈 : 진 : Advance, Progress
+通 : 통할 : 통 : Pass, Go Through
+習 : 이길 : 습 : Practice, Repeat
+動 : 움직일 : 동 : Movement, Action
+光 : 빛 : 광 : Bright, Shine
+明 : 밝을 : 명 : Bright, Clear
+華 : 빛날 : 화 : Bright, Colorful
+電 : 번개 : 전 : Electricity
+特 : 특별할 : 특 : Special
+物 : 물건 : 물 : Thing
+作 : 지을 : 작 : Build
+料 : 헤아릴 : 료/요 : Material, Ingredient, Cost
+資 : 재물 : 자 : Wealth, Data
+製 : 지을 : 제 : Manufacture, Build
+車 : 수레 : 차 : Car
+路 : 길 : 로 : Road, Path
+道 : 길 : 도 : Road, Path
+驛 : 역 : 역 : Station
+敎 : 가르칠 : 교 : Teach
+育 : 기를 : 육 : Educate, Raise
+科 : 과목 : 과 : Subject, Science
+講 : 외울 : 강 : Explain, Lecture
+訓 : 가르칠 : 훈 : Train
+共 : 함께 : 공 : Together
+團 : 동글 : 단 : Group
+協 : 화합할 : 협 : Cooperation
+政 : 정사 : 정 : Government
+副 : 버금 : 부 : Sub-, Assist
+店 : 가게 : 점 : Shop, Store
+商 : 장사 : 상 : Commerce
+換 : 바꿀 : 환 : Change, Exchange
+買 : 살 : 매 : Buy
+賣 : 팔 : 매 : Sell
+平 : 평평할 : 평 : Peace, Fair
+安 : 편안 : 안 : Peaceful
+和 : 화할 : 화 : Harmony
+空 : 빌 : 공 : Emptiness
+園 : 동산 : 원 : Park
+高 : 높을 : 고 : High
+最 : 가장 : 최 : Most
+初 : 처음 : 초 : Start
+惡 : 악할 : 악 : Worst, Evil
+低 : 낮을 : 저 : Low
+加 : 더할 : 가 : Increase
+減 : 덜 : 감 : Decrease
+配 : 나눌 : 배 : Divide, Match
+記 : 기록할 : 기 : Record
+兩 : 두 : 양 : Pair
+海 : 바다 : 해 : Sea, Ocean
+島 : 섬 : 도 : Island
+船 : 배 : 선 : Boat, Ship
+雨 : 비 : 우 : Rain
+浴 : 목욕할 : 욕 : Bathe
+原 : 언덕 : 원 : Originate
+開 : 열 : 개 : Open
+創 : 비롯할 : 창 : Establish
+始 : 비로소 : 시 : Start
+完 : 완전할 : 완 : Complete
+了 : 마칠 : 료 : Finish
+末 : 끝 : 말 : End
+成 : 이룰 : 성 : Complete, Succeed
+域 : 지경 : 역 : District
+房 : 방 : 방 : Room
+點 : 점 : 점 : Point
+館 : 집 : 관 : Place
+所 : 바 : 소 : Place
+活 : 살 : 활 : Live
+住 : 살 : 주 : Live, Reside
+常 : 항상 : 상 : Normal
+毛 : 터럭 : 모 : Hair
+事 : 일 : 사 : Affair
+辛 : 매울 : 신 : Spicy
+油 : 기름 : 유 : Oil, Fat
+肉 : 고기 : 육 : Meat
+度 : 법도 : 도 : Degree, System, Amount
+等 : 무리 : 등, : Rank, Grade
+級 : 등급 : 급 : Level, Rank, Grade
+階 : 섬돌 : 계 : Level
+長 : 길 : 장 : Leader
+健 : 굳셀 : 건 : Health
+醫 : 의원 : 의 : Doctor, Medicine
+藥 : 약 : 약 : Medicine
+療 : 고칠 : 료/요 : Treatment, Cure
+檢 : 검사할 : 검 : Examine
+費 : 쓸 : 비 : Fee, Expense, Bill
+價 : 값 : 가 : Price, Cost, Value
+元 : 으뜸 : 원 : money, origin
+富 : 부유할 : 부 : rich, abundant
+錢 : 돈 : 전 : money, currency
+銀 : 은 : 은 : silver, money
+銅 : 구리 : 동 : copper, bronze
+鐵 : 쇠 : 철 : iron
+炭 : 숯 : 탄 : carbon
+素 : 본디 : 소 : element, origin, properties
+千 : 일천 : 천 : Thousand
+萬 : 일 : 만 : Ten thousand
+億 : 억 : 억 : One hundred million
+番 : 차례 : 번 : turn, repetition
+號 : 이름 : 호 : sign, symbol, number
+速 : 빠를 : 속 : speed, quick, prompt
+急 : 급할 : 급 : fast, urgent
+限 : 한할 : 한 : limit
+流 : 흐를 : 유/류 : circulate, flow
+率 : 비율 : 율/률 : rate, ratio
+少 : 적을 : 소 : few
+的 : 과녁 : 적 : allowing nouns to describe an upcoming down
+性 : 성품 : 성 : the nature of, sex
+可 : 옳을 : 가 : being able to
+比 : 견줄 : 비 : compare
+情 : 뜻 : 정 : feeling, emotion
+愛 : 사랑 : 애 : love
+關 : 관계할 : 관 : relationship
+相 : 서로 : 상 : mutual
+好 : 좋을 : 호 : good, like
+任 : 맡길 : 임 : appoint, duty
+當 : 마땅 : 당 : bear, accept, undertake
+擔 : 멜 : 담 : undertake
+院 : 집 : 원 : institution
+職 : 직분 : 직 : profession
+鳥 : 새 : 조 : bird
+魚 : 물고기 : 어 : fish
+犬 : 개 : 견 : dog
+猫 : 고양이 : 묘 : cat
+蟲 : 벌레 : 충 : insects
+退 : 물러날 : 퇴 : leave
+後 : 뒤 : 후 : behind, rear
+發 : 필 : 발 : emit, send
+放 : 놓을 : 방 : release, emit
+送 : 보낼 : 송 : send
+溫 : 따뜻할 : 온 : heat, temperature
+熱 : 더울 : 열 : heat
+風 : 바람 : 풍 : wind
+氣 : 기운 : 기 : air
+壓 : 누를 : 압 : pressure
+量 : 헤아릴 : 량/양 : measure
+容 : 얼굴 : 용 : appearance
+重 : 무거울 : 중 : weight
+計 : 셀 : 계 : count
+過 : 지날 : 과 : over
+害 : 해할 : 해 : injure, harm, destroy
+災 : 재앙 : 재 : disaster
+傷 : 다칠 : 상 : wound, injury
+破 : 깨뜨릴 : 파 : destroy
+血 : 피 : 혈 : blood
+罪 : 허물 : 죄 : crime, evil
+犯 : 범할 : 범 : crime
+毒 : 독 : 독 : poison
+法 : 법 : 법 : law
+暴 : 사나울 : 폭 : violence
+決 : 결단할 : 결 : decide
+定 : 정할 : 정 : decide, fixed
+意 : 뜻 : 의 : opinion, meaning
+選 : 가릴 : 선 : selection
+問 : 물을 : 문 : to ask
+色 : 빛 : 색 : color
+形 : 모양 : 형 : shape, form
+角 : 뿔 : 각 : angle
+面 : 낯 : 면 : surface
+模 : 본뜰 : 모 : model, standard
+農 : 농사 : 농 : agriculture
+産 : 낳을 : 산 : birth
+菜 : 나물 : 채 : vegetable
+野 : 들 : 야 : openness
+村 : 마을 : 촌 : village
+休 : 쉴 : 휴 : rest
+止 : 그칠 : 지 : stop
+廢 : 폐할 : 폐 : terminate
+靜 : 고요할 : 정 : quiet, still
+停 : 머무를 : 정 : stop
+戰 : 싸움 : 전 : war, battle
+爭 : 다툴 : 쟁 : fight
+軍 : 군사 : 군 : army
+鬪 : 싸울 : 투 : fight
+亡 : 망할 : 망 : death
+筆 : 붓 : 필 : write
+紙 : 종이 : 지 : paper
+寫 : 베낄 : 사 : write
+錄 : 기록할 : 록/녹 : record, register
+表 : 겉 : 표 : show, express
+防 : 막을 : 방 : Prevent
+保 : 지킬 : 보 : Protect
+守 : 지킬 : 수 : defend
+護 : 도울 : 호 : protect
+豫 : 미리 : 예 : pre-, in advance
